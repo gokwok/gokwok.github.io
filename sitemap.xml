@@ -14,18 +14,6 @@
     </url>
   
     <url>
-      <loc>https://gokwok.github.io/tags/hugo/</loc>
-      
-      <lastmod>2019-07-15T15:49:44+08:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
       <loc>https://gokwok.github.io/posts/</loc>
       
       <lastmod>2019-07-15T15:49:44+08:00</lastmod>
@@ -55,6 +43,18 @@
       <lastmod>2019-07-15T15:49:44+08:00</lastmod>
       
       
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://gokwok.github.io/tags/hugo/</loc>
+      
+      <lastmod>2019-07-15T15:49:44+08:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
       
       
     </url>
