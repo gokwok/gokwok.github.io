@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+  <meta http-equiv="content-type" content="text/html;charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noodp"/>
+  <meta name="author" content="gokwok">
+  
+  
+  
+  <link rel="prev" href="https://gokwok.github.io/2018/hexo-deplay%E5%A4%B1%E6%95%97%E7%9A%84%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88/" />
+  <link rel="next" href="https://gokwok.github.io/2019/welcome/" />
+  <link rel="canonical" href="https://gokwok.github.io/2018/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%A4%A9%E6%B1%A0%E5%A4%A7%E6%95%B8%E6%93%9A%E7%AB%B6%E8%B3%BD%E8%A8%98%E9%8C%84/" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+  <title>
+       
+       
+           記第一次天池大數據競賽 | Aporia Zone
+       
+  </title>
+  <meta name="title" content="記第一次天池大數據競賽 | Aporia Zone">
+    
+  
+  <link rel="stylesheet" href="/font/iconfont.css">
+  <link rel="stylesheet" href="/css/main.min.css">
+
+
+  
+  
+ 
+
+<script type="application/ld+json">
+ "@context" : "http://schema.org",
+    "@type" : "BlogPosting",
+    "mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "https:\/\/gokwok.github.io\/"
+    },
+    "articleSection" : "posts",
+    "name" : "記第一次天池大數據競賽",
+    "headline" : "記第一次天池大數據競賽",
+    "description" : "這幾天參加了一下阿里的天池大數據競賽，初賽已經結束了，雖然差了一個百分點很遺憾沒有晉級下一輪，不過第一次參加這種比賽，能達到144\/2522這樣的成績，我感覺也算過的去，关键是在4-5天的比赛里，确实学到了许多的东西，在此對這一次比賽的過程做一個記錄。 比賽地址：天池精準醫療大賽——人工智能輔助糖尿病遺傳風險預測 1. 數據集的處理 首先看到比賽題目最直觀的能馬上得到的是主辦方給的測試集，入手以後看了下測試集，缺失內容非常之多，數據處理用*python*進行，主要使用*pandas*來查看數據。\ndata_train = pd.read_csv(\x26quot;.......csv\x26quot;) data_train.columns data = pd.concat([train,test],axis=0) print(data.isnull().sum()\/len(data)) #查看數據的缺失比例   模型的選用 這次比賽選用的是baseline的lighGBM，一開始用了nn效果不是很好，代碼如下： ```python def make_feat(train,test): train_id = train.id.values.copy() test_id = test.id.values.copy() data = pd.concat([train,test])\ndata[\x26lsquo;性别\x26rsquo;] = data[\x26lsquo;性别\x26rsquo;].map({\x26lsquo;男\x26rsquo;:1,\x26lsquo;女\x26rsquo;:0,\x26lsquo;??\x26rsquo;:1}) data[\x26lsquo;体检日期\x26rsquo;] = (pd.to_datetime(data[\x26lsquo;体检日期\x26rsquo;]) - parse(\x26lsquo;2017-10-09\x26rsquo;)).dt.days\ndata.fillna(data.median(axis=0),inplace=True)\ntrain_feat = data[data.id.isin(train_id)] test_feat = data[data.id.isin(train_id)]\nreturn train_feat,test_feat\n  train_feat,test_feat = make_feat(train,test)\npredictors = [f for f in test_feat.columns if f not in [\x26lsquo;血糖\x26rsquo;]]\ndef evalerror(pred, df): label = df.get_label().values.copy() score = mean_squared_error(label,pred)*0.",
+    "inLanguage" : "en-us",
+    "author" : "gokwok",
+    "creator" : "gokwok",
+    "publisher": "gokwok",
+    "accountablePerson" : "gokwok",
+    "copyrightHolder" : "gokwok",
+    "copyrightYear" : "2018",
+    "datePublished": "2018-01-30 21:30:03 \x2b0000 UTC",
+    "dateModified" : "2018-01-30 21:30:03 \x2b0000 UTC",
+    "url" : "https:\/\/gokwok.github.io\/2018\/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%A4%A9%E6%B1%A0%E5%A4%A7%E6%95%B8%E6%93%9A%E7%AB%B6%E8%B3%BD%E8%A8%98%E9%8C%84\/",
+    "wordCount" : "161",
+    "keywords" : [ "python","机器学习", "Aporia Zone"]
+}
+</script>
+
+</head>
+
+  
+
+
+  <body class="">
+    <div class="wrapper">
+        <nav class="navbar">
+    <div class="container">
+        <div class="navbar-header header-logo">
+        	<a href="javascript:void(0);" class="theme-switch"><i class="iconfont icon-xihuan"></i></a>&nbsp;<a href="https://gokwok.github.io/">Aporia Zone</a>
+        </div>
+        <div class="menu navbar-right">
+                
+                
+                <a class="menu-item" href="/posts/" title="">Blog</a>
+                
+                <a class="menu-item" href="/categories/" title="">Categories</a>
+                
+                <a class="menu-item" href="/tags/" title="">Tags</a>
+                
+                <a class="menu-item" href="/about/" title="">About</a>
+                
+        </div>
+    </div>
+</nav>
+<nav class="navbar-mobile" id="nav-mobile" style="display: none">
+     <div class="container">
+        <div class="navbar-header">
+            <div>  <a href="javascript:void(0);" class="theme-switch"><i class="iconfont icon-xihuan"></i></a>&nbsp;<a href="https://gokwok.github.io/">Aporia Zone</a></div>
+            <div class="menu-toggle">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+     
+          <div class="menu" id="mobile-menu">
+                
+                
+                <a class="menu-item" href="/posts/" title="">Blog</a>
+                
+                <a class="menu-item" href="/categories/" title="">Categories</a>
+                
+                <a class="menu-item" href="/tags/" title="">Tags</a>
+                
+                <a class="menu-item" href="/about/" title="">About</a>
+                
+        </div>
+    </div>
+</nav>
+    	 <main class="main">
+          <div class="container">
+      		
+<article class="post-warp" itemscope itemtype="http://schema.org/Article">
+    <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">記第一次天池大數據競賽</h1>
+        <div class="post-meta">
+                Written by <a itemprop="name" href="https://gokwok.github.io/" rel="author">gokwok</a> with ♥ 
+                <span class="post-time">
+                on <time datetime=2018-01-30 itemprop="datePublished">January 30, 2018</time>
+                </span>
+                in
+                <i class="iconfont icon-folder"></i>
+                <span class="post-category">
+                        <a href="https://gokwok.github.io/categories/%E8%AE%B0%E4%BA%8B%E6%9C%AC/"> 记事本 </a>
+                        
+                </span>
+        </div>
+    </header>
+    <div class="post-content">
+        
+
+        
+
+        
+        
+     
+          
+          
+          
+
+          
+          
+          
+
+          <p>這幾天參加了一下阿里的天池大數據競賽，初賽已經結束了，雖然差了一個百分點很遺憾沒有晉級下一輪，不過第一次參加這種比賽，能達到144/2522這樣的成績，我感覺也算過的去，关键是在4-5天的比赛里，确实学到了许多的东西，在此對這一次比賽的過程做一個記錄。
+比賽地址：<a href="https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.5a8e8242Uuqy64&amp;raceId=231638" rel="nofollow noreferrer" target="_blank">天池精準醫療大賽——人工智能輔助糖尿病遺傳風險預測</a>
+1. 數據集的處理
+首先看到比賽題目最直觀的能馬上得到的是主辦方給的測試集，入手以後看了下測試集，缺失內容非常之多，數據處理用*python*進行，主要使用*pandas*來查看數據。</p>
+
+<pre><code class="language-python">data_train = pd.read_csv(&quot;.......csv&quot;)
+data_train.columns 
+data = pd.concat([train,test],axis=0)
+print(data.isnull().sum()/len(data))    #查看數據的缺失比例
+</code></pre>
+
+<ol>
+<li><p>模型的選用
+這次比賽選用的是baseline的lighGBM，一開始用了nn效果不是很好，代碼如下：
+```python
+def make_feat(train,test):
+train_id = train.id.values.copy()
+test_id = test.id.values.copy()
+data = pd.concat([train,test])</p>
+
+<p>data[&lsquo;性别&rsquo;] = data[&lsquo;性别&rsquo;].map({&lsquo;男&rsquo;:1,&lsquo;女&rsquo;:0,&lsquo;??&rsquo;:1})
+data[&lsquo;体检日期&rsquo;] = (pd.to_datetime(data[&lsquo;体检日期&rsquo;]) - parse(&lsquo;2017-10-09&rsquo;)).dt.days</p>
+
+<p>data.fillna(data.median(axis=0),inplace=True)</p>
+
+<p>train_feat = data[data.id.isin(train_id)]
+test_feat = data[data.id.isin(train_id)]</p>
+
+<p>return train_feat,test_feat</p></li>
+</ol>
+
+<p>train_feat,test_feat = make_feat(train,test)</p>
+
+<p>predictors = [f for f in test_feat.columns if f not in [&lsquo;血糖&rsquo;]]</p>
+
+<p>def evalerror(pred, df):
+    label = df.get_label().values.copy()
+    score = mean_squared_error(label,pred)*0.5
+    return (&lsquo;0.5mse&rsquo;,score,False)</p>
+
+<p>print(&lsquo;开始训练&hellip;&rsquo;)
+params = {
+    &lsquo;learning_rate&rsquo;: 0.01,
+    &lsquo;boosting_type&rsquo;: &lsquo;gbdt&rsquo;,
+    &lsquo;objective&rsquo;: &lsquo;regression&rsquo;,
+    &lsquo;metric&rsquo;: &lsquo;mse&rsquo;,
+    &lsquo;sub_feature&rsquo;: 0.7,
+    &lsquo;num_leaves&rsquo;: 60,
+    &lsquo;colsample_bytree&rsquo;: 0.7,
+    &lsquo;min_data&rsquo;: 100,
+    &lsquo;min_hessian&rsquo;: 1,
+    &lsquo;verbose&rsquo;: -1,
+}</p>
+
+<p>print(&lsquo;开始CV 5折训练&hellip;&rsquo;)
+t0 = time.time()
+train_preds = np.zeros(train_feat.shape[0])
+test_preds = np.zeros((test_feat.shape[0],5))
+kf = KFold(len(train_feat),n_folds=5,shuffle=True,random_state=520)
+for i,(train_index,test_index) in enumerate(kf):
+    print(&lsquo;第{}次训练&hellip;&rsquo;.format(i))
+    train_feat1 = train_feat.iloc[train_index]
+    train_feat2 = train_feat.iloc[test_index]
+    lgb_train1 = lgb.Dataset(train_feat1[predictors],train_feat1[&lsquo;血糖&rsquo;])#,categorical_feature=[&lsquo;性别&rsquo;])
+    lgb_train2 = lgb.Dataset(train_feat2[predictors],train_feat2[&lsquo;血糖&rsquo;])
+    gbm = lgb.train(
+        params,
+        lgb_train1,
+        num_boost_round=3000,
+        valid_sets=lgb_train2,
+        verbose_eval=100,
+        feval=evalerror,
+        early_stopping_rounds=100
+    )
+    feat_imp = pd.Series(gbm.feature_importance(),index=predictors).sort_values(ascending=False)
+    train_preds[test_index] += gbm.predict(train_feat2[predictors])
+    test_preds[:,i] = gbm.predict(test_feat[predictors])
+print(&lsquo;线下得分：    {}&rsquo;.format(mean_squared_error(train_feat[&lsquo;血糖&rsquo;],train_preds)*0.5))
+print(&lsquo;CV训练用时{}秒&rsquo;.format(time.time() - t0))</p>
+
+<p>submission = pd.DataFrame({&lsquo;pred&rsquo;:test_preds.mean(axis=1)})
+submission.to<em>csv(r&rsquo;sub{}.csv&rsquo;.format(datetime.datetime.now().strftime(&lsquo;%Y%m%d</em>%H%M%S&rsquo;)),header=None,
+                  index=False,float_format=&lsquo;%.4f&rsquo;)
+```
+3. 展望
+數據的缺失補全，特征提取都有了一定的了解，不過沒進複賽很不甘心，下次再接再厲。</p>
+
+    </div>
+
+    <div class="post-copyright">
+             
+            <p class="copyright-item">
+                <span>Author:</span>
+                <span>gokwok </span>
+                </p>
+            
+           
+             
+            <p class="copyright-item">
+                    <span>Link:</span>
+                    <a href=https://gokwok.github.io/2018/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%A4%A9%E6%B1%A0%E5%A4%A7%E6%95%B8%E6%93%9A%E7%AB%B6%E8%B3%BD%E8%A8%98%E9%8C%84/>https://gokwok.github.io/2018/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%A4%A9%E6%B1%A0%E5%A4%A7%E6%95%B8%E6%93%9A%E7%AB%B6%E8%B3%BD%E8%A8%98%E9%8C%84/</span>
+            </p>
+            
+             
+            <p class="copyright-item lincese">
+                本文采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可
+            </p>
+            
+    </div>
+
+  
+    <div class="post-tags">
+        
+            <section>
+            <i class="iconfont icon-tag"></i>Tag(s): 
+            
+            <span class="tag"><a href="https://gokwok.github.io/tags/python/">
+                    #python</a></span>
+            
+            <span class="tag"><a href="https://gokwok.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/">
+                    #机器学习</a></span>
+            
+            </section>
+        
+        <section>
+                <a href="javascript:window.history.back();">back</a></span> · 
+                <span><a href="https://gokwok.github.io/">home</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav">
+        
+        <a href="https://gokwok.github.io/2018/hexo-deplay%E5%A4%B1%E6%95%97%E7%9A%84%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88/" class="prev" rel="prev" title="hexo deplay失敗的解決方案"><i class="iconfont icon-left"></i>&nbsp;hexo deplay失敗的解決方案</a>
+         
+        
+        <a href="https://gokwok.github.io/2019/welcome/" class="next" rel="next" title="Welcome to my blog">Welcome to my blog&nbsp;<i class="iconfont icon-right"></i></a>
+        
+    </div>
+
+    <div class="post-comment">
+          
+                 
+          
+    </div>
+</article>
+          </div>
+		   </main>
+      <footer class="footer">
+    <div class="copyright">
+        &copy;
+        
+        <span itemprop="copyrightYear">2017 - 2019</span>
+        
+        <span class="with-love">
+    	 <i class="iconfont icon-love"></i> 
+         </span>
+         
+            <span class="author" itemprop="copyrightHolder"><a href="https://gokwok.github.io/">gokwok</a> | </span> 
+         
+
+         
+		  <span>Powered by <a href="https://gohugo.io/" target="_blank" rel="external nofollow">Hugo</a> & <a href="https://github.com/liuzc/leaveit" target="_blank" rel="external nofollow">LeaveIt</a></span> 
+    </div>
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    <script src="/js/vendor_no_gallery.min.js" async=""></script>
+    
+  
+
+
+
+     </div>
+  </body>
+</html>

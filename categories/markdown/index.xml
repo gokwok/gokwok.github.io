@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>markdown on Aporia Zone</title>
+    <link>https://gokwok.github.io/categories/markdown/</link>
+    <description>Recent content in markdown on Aporia Zone</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Dec 2017 09:59:46 +0000</lastBuildDate>
+    
+	<atom:link href="https://gokwok.github.io/categories/markdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>markdown測試</title>
+      <link>https://gokwok.github.io/2017/markdown%E6%B8%AC%E8%A9%A6/</link>
+      <pubDate>Mon, 18 Dec 2017 09:59:46 +0000</pubDate>
+      
+      <guid>https://gokwok.github.io/2017/markdown%E6%B8%AC%E8%A9%A6/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;馬克飛象&lt;/strong&gt;是一款專為印象筆記（Evernote）打造的Markdown編輯器，通過精心的設計與技術實現，配合印象筆記強大的存儲和同步功能，帶來前所未有的書寫體驗。特點概述：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;功能豐富&lt;/strong&gt; ：支持高亮代碼塊、&lt;em&gt;LaTeX&lt;/em&gt; 公式、流程圖，本地圖片以及附件上傳，甚至截圖粘貼，工作學習好幫手；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;得心應手&lt;/strong&gt; ：簡潔高效的編輯器，提供&lt;a href=&#34;http://maxiang.info/client_zh&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;桌面客戶端&lt;/a&gt;以及&lt;a href=&#34;https://chrome.google.com/webstore/detail/kidnkfckhbdkfgbicccmdggmpgogehop&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;離線Chrome App&lt;/a&gt;，支持移動端 Web；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;深度整合&lt;/strong&gt; ：支持選擇筆記本和添加標籤，支持從印象筆記跳轉編輯，輕鬆管理。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[TOC]&lt;/p&gt;
+
+&lt;h2 id=&#34;markdown簡介&#34;&gt;Markdown簡介&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Markdown 是一種輕量級標記語言，它允許人們使用易讀易寫的純文本格式編寫文檔，然後轉換成格式豐富的HTML頁面。    —— &lt;a href=&#34;https://zh.wikipedia.org/wiki/Markdown&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;維基百科&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;正如您在閱讀的這份文檔，它使用簡單的符號標識不同的標題，將某些文字標記為&lt;strong&gt;粗體&lt;/strong&gt;或者*斜體*，創建一個&lt;a href=&#34;http://www.example.com&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;鏈接&lt;/a&gt;或一個腳註&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:demo&#34;&gt;&lt;a href=&#34;#fn:demo&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;。下面列舉了幾個高級功能，更多語法請按&lt;code&gt;Ctrl + /&lt;/code&gt;查看幫助。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

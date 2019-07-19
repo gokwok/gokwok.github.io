@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>脚本 on Aporia Zone</title>
+    <link>https://gokwok.github.io/tags/%E8%84%9A%E6%9C%AC/</link>
+    <description>Recent content in 脚本 on Aporia Zone</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Jan 2018 15:46:24 +0000</lastBuildDate>
+    
+	<atom:link href="https://gokwok.github.io/tags/%E8%84%9A%E6%9C%AC/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>python實現簡繁體轉換腳本</title>
+      <link>https://gokwok.github.io/2018/python%E5%AF%A6%E7%8F%BE%E7%B0%A1%E7%B9%81%E9%AB%94%E8%BD%89%E6%8F%9B%E8%85%B3%E6%9C%AC/</link>
+      <pubDate>Tue, 16 Jan 2018 15:46:24 +0000</pubDate>
+      
+      <guid>https://gokwok.github.io/2018/python%E5%AF%A6%E7%8F%BE%E7%B0%A1%E7%B9%81%E9%AB%94%E8%BD%89%E6%8F%9B%E8%85%B3%E6%9C%AC/</guid>
+      <description>因為本博客使用的字體是明朝（*HiraMinProN*），該字體頗有古風，很符合個人的口味，Apple的設備無論是ios還是mac都內置了該字體。但是在使用中它對於簡體中文的支持很差，存在很多未覆蓋的字符。如果使用繁體中文書寫博客，應用該字體的效果還是不錯的。所以為了對中文的博文進行處理，使用*python*編寫了以下輕量級的簡繁體中文轉化腳本。
+所需要的Python庫：zh_wiki.py,langconv
+代碼編寫：
+from langconv import * class article: &#39;&#39;&#39; 图片处理类 参数 ------------- infile: 输入文件路径 outfile： 输出文件路径 &#39;&#39;&#39; def __init__(self,infile,outfile): self.infile = infile self.outfile = outfile #简体转繁体 def simple2traditon(self): fp = open(self.outfile,&#39;w&#39;) with open(self.infile) as t: for line in t: print(line) line = Converter(&#39;zh-hant&#39;).convert(line) print(line) fp.write(line) fp.close() #繁体转简体 def tradition2simple(self): fp = open(self.outfile, &#39;w&#39;) with open(self.infile) as t: for line in t: line = Converter(&#39;zh-hans&#39;).convert(line) fp.write(line) fp.close()  實現效果： 轉換前: 唐僧为什么要取经——《西游记》中的政治路线图 轉換后: 唐僧為什麼要取經——《西遊記》中的政治路線圖 單行較長時速度一般，處理大文件速度一般，但是足夠輕量級，處理博文已經完全夠用</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>知识库 on Aporia Zone</title>
+    <link>https://gokwok.github.io/categories/%E7%9F%A5%E8%AF%86%E5%BA%93/</link>
+    <description>Recent content in 知识库 on Aporia Zone</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Jan 2018 18:22:11 +0000</lastBuildDate>
+    
+	<atom:link href="https://gokwok.github.io/categories/%E7%9F%A5%E8%AF%86%E5%BA%93/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>numpy初步使用指南</title>
+      <link>https://gokwok.github.io/2018/numpy%E5%88%9D%E6%AD%A5%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97_ver2/</link>
+      <pubDate>Sun, 21 Jan 2018 18:22:11 +0000</pubDate>
+      
+      <guid>https://gokwok.github.io/2018/numpy%E5%88%9D%E6%AD%A5%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97_ver2/</guid>
+      <description>一、概述 Numpy是Python中的一個科學計算庫，提供了矩陣運算的功能，由於numpy提供了更多方便了函數，在實際的使用中numpy要優於python中的list。本文將會著重於機器學習過程中對numpy的使用需要了解的大致操作，來介紹numpy的初步使用指南。
+二、安裝和導入 普通的pip操作即可完成安裝(若同時安裝了python2和python3想在python3中安裝請使用pip3)：
+pip install numpy  導入numpy：
+import numpy as np  三、數據結構 numpy的主要對象是同種元素的多維數組。這是一個所有的元素都是一種類型、通過一個正整數元組索引的元素表格（通常是數字表格）。在numpy中維度叫做軸（axes），軸的個數叫做秩（rank）。 打個比方，在三維空間中一個點的坐標*[1，2，3]*就是一個秩為1的數組，因為它軸的個數為1，該軸的長度為3。numpy的數組類叫做ndarry，通常被稱作數組，它與標準Python庫類array.array並不相同，後者只處理一維數組和提供少量功能。
+ndarry的主要對象屬性有：
+ ndarray.ndim：軼的值
+ ndarray.shape：數組的維度。這是一個指示數組在每個維度上大小的整數元組。例如一個n排m列的矩陣，他的shape屬性就是（2，3），這個元組的長度是軼，即維度或是ndim屬性
+ ndarray.size：數組元素的總個數，等於shape屬性中元組元素的乘積
+ ndarray.dtype：一個用來描述數組中元素類型的對象，可以通過創造或指定dtype使用標準的Python類型，也可以使用numpy自己提供的數據類型
+ ndarray.itemsize：數組中每個元素的字節大小。例如，一個元素類型為float64的數組itemsiz屬性值為*（64/8=）*8
+ ndarray.data：包含實際數組元素的緩衝區，通常不使用這個屬性
+  四、使用numpy 4.1 創建數組
+ 使用array函數從常規的Python列表和元組創造數組。所創建的數組類型由原序列中的元素類型推導而來。
+&amp;gt;&amp;gt;&amp;gt; a = array([2,3,4]) #RIGHT &amp;gt;&amp;gt;&amp;gt; a = array(2,3,4) #WRONG   數組將序列包含序列轉化為二維的數組，序列包含序列包含序列轉化成三維數組。 python &amp;gt;&amp;gt;&amp;gt; b = array([(1,2,3,4),(1,2,3,4)])   數組類型可以在創建的時候指定
+&amp;gt;&amp;gt;&amp;gt; c = array([[1,2],[3,4]],dtype=complex)   一般來說，數組的元素開始都是未知的，但是它的大小是已知的。numpy提供了一些使用佔位符創建數組的函數。函數zeros創建一個全是0的數組，函數ones創建一個全1的數組，函數empty創建一個內容隨機並且依賴於內存狀態的數組。默認創建的數組類型（dtype）都是float64.
+ 為了創建一個數列，numpy提供了一個類似arrange的函數返回數組而不是列表：
+&amp;gt;&amp;gt;&amp;gt; arange(10,30,5) array([10,15,20,25])    4.</description>
+    </item>
+    
+  </channel>
+</rss>

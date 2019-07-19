@@ -5,8 +5,437 @@
     <description>Recent content in Aporia Zone on Aporia Zone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jul 2019 15:49:44 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2019 21:30:03 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>设定集</title>
+      <link>https://gokwok.github.io/2019/%E8%AE%BE%E5%AE%9A%E9%9B%86/</link>
+      <pubDate>Thu, 18 Jul 2019 21:30:03 +0000</pubDate>
+      
+      <guid>https://gokwok.github.io/2019/%E8%AE%BE%E5%AE%9A%E9%9B%86/</guid>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;毁灭即诞生，我们的临斋之地和我们的荣誉之事，将皆由此诞生。&amp;rdquo;
+                                                      ——泰拉创世纪 第一章18节&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;1-大陆架构&#34;&gt;1. 大陆架构&lt;/h3&gt;
+
+&lt;p&gt;英雄联盟世界观的瓦罗兰大陆艾欧尼亚越过世界之树的北侧和地下城世界观的阿拉德大陆最北测的斯顿雪域相连。
+故事的舞台由两个世界的交界，艾欧尼亚和斯顿雪域展开。
+英雄联盟的世界：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://wx1.sinaimg.cn/mw690/cf7ae241ly1g25p8zd851j218p0u0tde.jpg&#34; alt=&#34;英雄联盟&#34; /&gt;
+地下城与勇士的世界：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://wx4.sinaimg.cn/mw690/cf7ae241ly1g25p8t7f5ej21d60u0dq9.jpg&#34; alt=&#34;dnf&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;2-两个大陆各自的历史进程&#34;&gt;2. 两个大陆各自的历史进程&lt;/h3&gt;
+
+&lt;p&gt;瓦罗兰大陆：三权分立的诺克萨斯为了获取艾欧尼亚的生命之树，大举入侵艾欧尼亚，恕瑞玛沙漠沙皇还未从沉睡中醒来，暗影岛深处的鬼魂向比尔吉沃特的海港伸出獠牙，自诩正义的德玛西亚中法师团体开始反抗压迫。&lt;/p&gt;
+
+&lt;p&gt;阿拉德大陆：名为冒险家的生物刚踏足坎纳克山，暗精灵王国的邪龙已经苏醒，诺伊佩拉的第五使徒瘟疫还在蔓延，德洛斯帝国和玛尔公国在边境产生冲突，万年雪山的班图族神谕中揭示着冰龙的复苏。&lt;/p&gt;
+
+&lt;h3 id=&#34;3-故事的主舞台&#34;&gt;3. 故事的主舞台&lt;/h3&gt;
+
+&lt;h4 id=&#34;3-1-艾欧尼亚&#34;&gt;3.1 艾欧尼亚&lt;/h4&gt;
+
+&lt;p&gt;艾欧尼亚所在的岛屿脱离瓦罗兰主大陆，它的土地上充盈着未遭破坏的自然之美和原生魔法。这座庞大的岛屿上四散着人类的定居点，这是一群充满灵性的人，追求着平静和谐、与世无争的生活。艾欧尼亚境内存在许多教派和社团，每一派都遵循各自（常常是彼此冲突的）的教义与理念。艾欧尼亚自给自足、闭关锁国，在数世纪以来瓦洛兰大陆上的多次战争中大多保持中立姿态——直到诺克萨斯的入侵。这次野蛮的侵略强迫艾欧尼亚重新审视自己在这个世界上的位置。它会采取怎样的措施、它未来的路何去何从，一切都未可预知。但无论艾欧尼亚的选择如何，符文之地的命运都必将因此而改变。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;初生之土
+魔法充盈于艾欧尼亚的一切，人民、历史，还有大部分土地。各种形式的生命处于平衡之中，同时又有许多秘密等待探索和发现，他们的历史远比符文之地大多数种族更加古老。&lt;/li&gt;
+&lt;li&gt;万物归一的生活
+艾欧尼亚诸多省份的居民一直将自己视为自然世界的一部分，因此他们的生活方式与周围各种神奇的动植物和谐共存。&lt;/li&gt;
+&lt;li&gt;宏伟的修道院
+虽然这里是许多武术流派的发源地，但艾欧尼亚始终没有常备的军队。相反，不同的战斗技法在这里代表着彼此相左的哲学理念，在人们的敬仰和维护下代代相传。在东北方的山区，希拉娜修道院是一座古老的避难所，接纳所有为了探寻自我与精神领域连接的人。&lt;/li&gt;
+&lt;li&gt;均衡教派
+均衡教派是一个以维护艾欧尼亚神圣平衡为己任的团体。教派的信徒们行走于精神与物质两个世界之中，协调两界之间的冲突，而且有必要的时候，也会使用强制力介入。在对诺克萨斯战争期间，均衡教派的人被迫离流离失所，而夺走他们自古传承的庙堂的，正是曾经的均衡信徒，劫。&lt;/li&gt;
+&lt;li&gt;挺立之战
+普雷西典是艾欧尼亚人首次奋起反抗强敌诺克萨斯的地方。但那一天的胜利也伴随着巨大的代价，如今甚至有人开始质疑武力还击是否是正确的抉择，因为他们的家园已经永远丧失了和谐的平衡。&lt;/li&gt;
+&lt;li&gt;生命之树
+虽然艾欧尼亚教派众多，但是大部分教派的神明都可以由生命之树追溯而来，那是艾欧尼亚北方的一座巨型山体，形状像极了一颗巨大的树，据说是整个符文之地迎来第一缕阳光的地方，也是符文之地除了巨神峰外的最高处，普遍认为生命之树是艾欧尼亚魔法力量的源头，藏着能起死回生的力量。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;3-2-斯顿雪域-万年雪山&#34;&gt;3.2 斯顿雪域-万年雪山&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;当冒险者们正在阿法利亚营地奋战时，斯顿雪域传来的消息让他们停下了前进的脚步，原本与世无争的班图族突然开始进犯公国的地域，当冒险者赶到的时候发现威胁根本就不是班图族的斗士，而是雪山深处传来的咆哮声……&lt;/p&gt;
+
+&lt;p&gt;斯顿雪域位于万年雪山，是班图族的首都。为了躲避每30年苏醒一次的雪山冰龙斯卡萨，班图族不得不周期性的越过国境入侵他国，以求得生存空间。对于时常迁移的班图族而言，首都这个词可能不太恰当，但班图族们将首都定在了斯顿雪域后，并没有继续往南撤退。这里距离雪山并不远，从这儿可以很清晰得看到雪山。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;斯顿雪域是指斯特鲁山脉西北一带的地区。这里海拔较高，气候寒冷干燥，并不适宜居住。&lt;/p&gt;
+
+&lt;p&gt;但是依然有一些民族群居在这里，其中以班图族的势力最为强大。每三十年，冰龙斯卡萨从沉睡中苏醒，班图族人就必须翻越斯特鲁山脉到达大陆腹地，以解决冰龙带来的严寒与饥荒问题。&lt;/p&gt;
+
+&lt;p&gt;但是斯特鲁山脉常年被冰雪覆盖，地势险峻，要想以一己之力翻越这座山峰，几乎是不可能的，所以每到这时候，各族间会团结一致，互相扶持。&lt;/p&gt;
+
+&lt;p&gt;斯顿雪域地区的发展相对于内陆国家而言，较为落后。主要原因在于那里偏远的地理位置和恶劣的生存环境，使得族人们无法与内陆地区进行频繁地往来交流，从而导致了物质、文化上的闭塞，这也是班图族文明与阿拉德大陆的主流文明存在明显差异的最主要原因。&lt;/p&gt;
+
+&lt;p&gt;直到某天班图族人发现雪山的尽头仿佛有一棵树的影子……&lt;/p&gt;
+
+&lt;h3 id=&#34;4-两个世界的交错-异世界的螺旋&#34;&gt;4. 两个世界的交错，异世界的螺旋&lt;/h3&gt;
+
+&lt;p&gt;长久以来，很多使世界陷入混乱的事……&lt;/p&gt;
+
+&lt;p&gt;还有那些看起来毫无关联的灾难片段，在谁都无法察觉的瞬间，以‘命运’之名自行联系起来……而那些被命运之指选中的人，可能会认为那些灾难是偶然发生的悲剧……&lt;/p&gt;
+
+&lt;p&gt;但……&lt;/p&gt;
+
+&lt;p&gt;这其实是巨大的命运齿轮，按早已契合的轨道，开始缓缓旋转的信号……&lt;/p&gt;
+
+&lt;p&gt;生命之树的更北侧出现了雪山的轮廓，而万年雪山的尽头出现了神树的影子，班图族认为神树是彻底消灭冰龙斯卡萨的神谕，于是越过雪山，入侵了艾欧尼亚的领地，寻找神树的秘密……&lt;/p&gt;
+
+&lt;p&gt;而处于战火之中的艾欧尼亚苦苦抵挡着诺克萨斯的入侵，班图族的入侵更是让瓦罗兰的局势乱成了一锅粥，英雄和勇士的命运，在此处交错。&lt;/p&gt;
+
+&lt;h3 id=&#34;5-人物设定&#34;&gt;5. 人物设定&lt;/h3&gt;
+
+&lt;h4 id=&#34;5-1-英雄侧&#34;&gt;5.1 英雄侧&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;艾瑞莉娅&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;在艾欧尼亚各地游历的游侠，将家乡的古老舞艺化为战技，以精心修习的优雅姿态操控着致命的刀刃。此时的她还没有加入战争，在各处寻找哥哥的足迹，尚未成为那位刀锋意志。&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;利刃冲击，距破之舞，比翼双刄，至尊锋刄&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;杰里柯·斯维因&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;作为诺克萨斯高瞻远瞩的策士统领，执掌一个独尊力量的扩张主义国度。在艾欧尼亚的战争中被斩去了左臂，但仍然在前线亲自指挥着，对抗着只有他才能看到的压境黑暗，只有他才能通过黑影般的渡鸦窥见周围死尸的秘密。&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;解脱之触，帝国视界，永不复行，恶魔升华&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;伯纳姆·达克威尔&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;青春永驻的诺克萨斯最高统帅，他已经统帅了诺克萨斯无数年，已经远远超出正常人类的平均寿命，谣传他通过死灵法术才活了这么多年，为了长生的秘密大举入侵艾欧尼亚。&lt;/p&gt;
+
+&lt;h4 id=&#34;5-2-冒险家侧&#34;&gt;5.2 冒险家侧&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;萝塔(ROTA)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;来自赫顿玛尔冒险家工会的战斗法师，看起来像个未成年的少女，但因为是魔族的原因，真实年龄已经达到25岁了，她有一头红色的双马尾，但是没有魔族标志性的用来感应魔力的双角，擅长使用长矛进行战斗，有成为魔法师的梦想但是因为没有角的缘故魔法天赋很弱，有着超乎寻常的战斗意识，会使用简单的元素炫纹辅助战斗。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://wx4.sinaimg.cn/mw690/cf7ae241ly1g25p91k7aqj20le0ihdhp.jpg&#34; alt=&#34;人设图&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;潘多拉(Pandora)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;属赫顿玛尔冒险家工会的冰结师，同为没有双角的魔族，心脏被名为黑暗之眼的结晶所代替，年龄未知。不擅长与人交流，使用特殊的冰系魔法进行战斗，因为黑暗之眼的特殊性，有快速恢复伤口的能力。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://wx2.sinaimg.cn/mw690/cf7ae241ly1g25p8wkejtj208c08cwep.jpg&#34; alt=&#34;人设图&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;敏泰&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;来自班图族的少女，16岁，棕发绿瞳，戴着有兔儿的帽子，是部落中的带了库尼莱的启示的巫师，雪崩拉比纳的妹妹。父亲是信奉狼的沃克族，母亲是信奉兔的库尼族。天真浪漫，纯洁无瑕，拥有一颗不为世俗污染的纯洁心灵。虽然年纪很小，但已是班图族内认可的优秀萨满。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;雪崩拉比纳&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;敏泰的哥哥，在雪山山脊上与班图族的战士们一起肩负着阻截外人擅自进入雪山的使命.他那狮吼般的嚎叫经常引起山体雪崩，同时也使对手心生恐惧，因而便有了“雪崩”的外号.和其他班图族战士一样，拉比纳虽然对异族人非常粗鲁，但对那些战胜自己的对手却极其尊重。&lt;/p&gt;
+
+&lt;h3 id=&#34;6-备用资料&#34;&gt;6. 备用资料&lt;/h3&gt;
+
+&lt;h4 id=&#34;6-1-冰结师背景故事&#34;&gt;6.1 冰结师背景故事&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“我出生的地方由于太寒冷甚至连使徒都不敢来这里。我从小就跟冰相处的很好，难道那时候已经注定我会成为最强冰结师么？”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;​   在所有能源被使徒抢走后，这里变成了极冰世界。在接近绝对零度的这里，生命绝对是禁忌的存在。&lt;/p&gt;
+
+&lt;p&gt;　　除了冰属性精灵外，只有少数追求冰属性魔法极限的高级魔法师敢于接近这里。这些人自称为“冰结师”。
+　　
+　　人如其名，他们对冰属性魔法有着特别的天赋与造诣。但是与其他冰系元素魔法师不同的是，他们直接用寒冰做出各种形态的武器来打击目标。
+　　
+　　只会使用冰系单一系的魔法，对冰结师来说是致命的缺点。但由于用“黑暗之眼”大幅强化了冰系魔法，他们的冰变得坚不可摧，甚至任何火焰都不能融化掉他们用寒冰做出来的武器。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“在替换心脏的黑暗之眼上，凝成了一朵小小的霜花。”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;　　它表明着原没有固定形态的“黑暗之眼”，正在逐渐结晶化。
+　　
+　　这看起来是件不可思议的事情。 不过他们所做的这一切，本来就违背了自然的规律。
+　　
+　　你看“黑暗之眼”已经开始结晶化，
+　　
+　　他们双脚踏上的每一寸土地、呼吸的每一口空气，
+　　
+　　甚至身体中流淌的每一滴血液，都在慢慢凝成结晶。
+　　
+　　他们虽然活着，却等同于死亡。
+　　
+　　若要问他们为什么还宁愿残喘于这个世界上，
+　　
+　　答案只有一个——魔法。
+　　
+　　为了魔法，他们可以不惜舍弃部分的身体……
+　　
+　　这是身为男魔法师的悲哀吗？
+　　
+　　他们的感情已经完全消逝，性格变得极度冷漠，
+　　
+　　身体的周围还散发着令人毛骨悚然的寒气。
+　　
+　　他们放弃了人类之躯，就像那些消失的精灵一样，渐渐地远离了人类。
+　　
+　　为了魔法，他们已然舍弃了一切。
+　　
+　　在他们的心中，或许只剩下那像雪之花一般绽放着的“黑暗之眼”。
+　　
+　　他们，就是冰冻之心。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;刹那永恒&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;​   冰冻的心脏，在刹那间粉碎，散落一地。&lt;/p&gt;
+
+&lt;p&gt;　　少女将碎片一一拾起，即使感到疼痛，也不皱一下眉头。
+　　
+　　问她是否感到寒冷，她却回答，这是温暖的。
+　　
+　　柔软的小手其实已经麻木，再无触觉了吧。
+　　
+　　深渊之花将时间冻结，
+　　
+　　万物皆被染上冰雪的厉色。
+　　
+　　唯有那少女，还在对我绽放微笑。
+　　
+　　那温暖绮丽的色彩，渐渐填满了我的世界。
+　　
+　　冰冻之心，慢慢融化成为流淌的逝水，
+　　
+　　长发从此未再修剪，蓄成银白色的瀑布。
+　　
+　　而离去之人，连背影都无法留住。
+　　
+　　唤醒我的那位少女，我会将她永远刻在心上。
+　　
+　　即使时光短暂，
+　　
+　　双手的温暖触感，如今还依稀残留。
+　　
+　　这一次，轮到我来守护你，直到永恒。
+　　
+　　少女啊，在封冻的回忆中安息吧……&lt;/p&gt;
+
+&lt;h4 id=&#34;6-2-战斗法师背景故事&#34;&gt;6.2 战斗法师背景故事&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;一位“贝亚娜斗神”的自述&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;炫纹是什么？贝亚娜又是什么？
+想要了解这些，我们必须先要了解那段被遗忘的神话故事——一段连《泰拉创世纪》都没有记载的传说。
+那是在泰拉星依然完整的太古时代，魔法的力量还没有被发明出来，以先进的科学技术为基础，十二个“贝亚娜”被创造出来了。
+闪耀着金色光芒的贝亚娜，拥有着贤者的智慧和战神的力量，她们光辉的形象受到所有泰拉人的崇拜，每一个泰拉人最大的梦想就是成为贝亚娜一般的存在。
+这种狂热的崇拜也影响到了泰拉星上的科学家，他们开始通过各种研究探究人类变成如同贝亚娜一样强大的可能性。
+简单来说，如果把创造贝亚娜的那种未知的力量注入到人的身体里，人类“贝亚娜化”就极有可能实现。
+但创造出贝亚娜的那种未知的力量已经再也无法获得了，所以在无奈之下，泰拉的科学家只能用一种盘旋在宇宙中的微弱力量来代替，那就是“元素”。元素本身并不具备很强大的能量，但把众多元素聚在一起就能够凝聚成仅次于未知力量的能量。科学家们想想这种能量一定能给泰拉人带来改变，并对它进行不懈的研究。
+结果大家已经知道了，古代科学家们成功了，被注入元素能量的人类散发出和贝亚娜同样的金色光芒，并获得了强大的力量。但是由于对元素的理解不足，试验人体的负荷太过沉重，最终狂暴的元素之力在人体内暴走，所有的实验体都死去了。
+这就是贝亚娜的秘密，元素的发现以及炫纹诞生的起源，为什么要突然说起这段无聊的事情，自然是有原因的。那就是因为比炫纹更加浓缩的魔力……也就是创造贝亚娜的那种未知的力量又再次出现了。
+有人推测，这是由于阿拉德大陆最近发生的异变现象导致的，也有人说不是。但这显然已经不重要了，在这种神奇的力量面前，深究出现的理由已然没有任何意义。
+尽管这种力量渗透出来得黑暗与邪恶让人感到恐惧，但对于强大力量的渴望在这时已经压制了我心中的一切，前所未有的兴奋感让我全身颤栗，我能将这种力量收为己用吗？
+成败已经不重要了，这种刺激的挑战已经足以让我不顾一切。&lt;/p&gt;
+
+&lt;h4 id=&#34;6-3-班图族&#34;&gt;6.3 班图族&lt;/h4&gt;
+
+&lt;p&gt;班图族并非指一个单纯的氏族，准确的来说这就像是中国人和和汉族这样的说法一样。班图族实则是对居住在斯特鲁山脉以北地区的所有氏族的总称。而族名“班图”是源自古代英雄“班图”，他以着绝强的实力翻越了斯特鲁山脉并占领了现在的贝尔玛尔。班图族的内部是由三个较小的部族主导，他们分别是沃克族（狼）、库尼族（兔子）和图卢斯族（野牛）。&lt;/p&gt;
+
+&lt;h4 id=&#34;6-4-三十年前查理的故事&#34;&gt;6.4 三十年前查理的故事&lt;/h4&gt;
+
+&lt;p&gt;30年前的某一夜，当年幼的巴尔雷娜还在熟睡时，比她大一岁的哥哥查理在帐篷外看到了神奇的一幕：一条漂亮的巨龙拖着绚烂的冰晶粉末略过天际，在黑暗的夜空里转了一圈又一圈，最后终于消失在坎纳克山的另一边。
+对于班图族人而言，这意味着折磨他们许久的冰龙斯卡萨已经再次苏醒，这绝对是个恐怖的坏消息，但仍是个小孩子的查理并不这么认为，因为那亮晶晶的粉末已经紧紧地抓住了他的心，迫使他去一探究竟。
+查理回到帐篷里，摇醒了巴尔雷娜并向她绘声绘色地讲了自己刚才的见闻，他还说去斯特鲁山脉的深处，去找那条令人着迷的巨龙。
+巴尔雷娜本以为他只是说着玩的，并没有放在心上，但第二天查理就失踪了……&lt;/p&gt;
+
+&lt;h4 id=&#34;6-5-洛丝之歌&#34;&gt;6.5 洛丝之歌&lt;/h4&gt;
+
+&lt;p&gt;漆黑的夜，没有月光照耀的深谷
+积累千年的雪球在孤独的叹息
+好想念太阳的光芒……
+偶尔，闪过的记忆片段里
+那些被珍藏在心底的金黄光芒
+像一束一束晃动跳跃的欢快音符&lt;/p&gt;
+
+&lt;p&gt;狭隘而长长的峡谷里吹来哀怨的风
+它叹息着峡谷的荒芜
+聚集了千年的时间
+在寒冷的雪地上刻出了自己的模样
+悠长而孤独的雪之香烟
+从此拥有了晶莹的面容&lt;/p&gt;
+
+&lt;p&gt;在地底下轻轻呼吸的雪球
+一点一点积累了千年
+它无法忘掉冷酷又孤独的风
+再次一点一点出现，与风相伴
+两个孤独的灵魂在缠绕中沉淀
+峡谷里渐渐出现了冰之柱
+单纯为照亮世界而存的洁净之光
+冰之柱很孤单
+它想念那些金黄的光芒
+但它的双手永远无法碰触它们
+看着那些光芒一点一点从心里消失
+最后陪伴冰之柱的，只剩下风孤独的叹息
+终于，某一天
+在对面，伸手可触的地方
+它看到了和自己一样寂寞的冰柱&lt;/p&gt;
+
+&lt;p&gt;悠长的岁月里
+冰之柱和那些同样寂寞的冰柱为伴
+它们渴望那些金黄的光芒
+它们分享彼此的寂寞和孤独
+因为心里有着共同的渴望
+它们扶持着走过了漫长的岁月&lt;/p&gt;
+
+&lt;p&gt;冰之柱以为自己终于摆脱了孤单和寂寞
+但或许是注定
+它失去了相伴的朋友
+从此心底多了另一个痛
+心底的渴望永远无法满足
+只好把千年寂寞埋在心底
+冰之柱又跟往常一样
+它细心的积累着雪、风还有冰
+把它们积成又薄又长的屋顶
+一如它千年来的渴望&lt;/p&gt;
+
+&lt;p&gt;一块结晶掉了下来
+嵌在看不见的冰冷细缝里
+几千年的等待
+终于长出了完整的手
+冰之柱高兴地留下了眼泪&lt;/p&gt;
+
+&lt;p&gt;在漫长的等待中
+眼泪形成了细细的河流，流淌了千年
+然后，将自己托付给神最初创造的河流
+一点点，流向低处
+这样过了一千年
+雪球又一次回到了自己原先生活的细缝
+它下定决心从此不再离开
+柔软晶莹的眼泪，有着坚硬的外壳
+如同孤单的人有着坚强的外表
+习惯寂寞是这个世界的生存法则
+但是，自己却再也无法一个人生活下去
+因为想起和其他柱子为伴的日子
+心里就有了永远无法填补的空缺&lt;/p&gt;
+
+&lt;p&gt;过了很久，很久……
+雪球做了一个梦
+梦见自己温暖地抱着凉凉的风
+一个小小的生命体在上面走动
+那气息与风一起筑起了坚固的梦晶体
+像风一样来到自己身边的少女
+有着和风一样的声音
+但风吹过
+声音却仍然静静地停留着
+雪球便把她称为洛丝
+洛丝是风不停的呼唤
+是小小梦想停驻的摇篮
+几百，成千个梦聚在这里
+筑起巢
+形成房间
+形成床
+形成器皿
+形成鞋
+…………
+最后出现了颜色&lt;/p&gt;
+
+&lt;p&gt;又过了一千年
+梦有了自己的意识，她可以思考了
+为了永远活在自己熟悉的地方
+梦筑起了自己的宫殿&lt;/p&gt;
+
+&lt;p&gt;…………
+天空飘落的雪白冰之结晶
+与梦结合一起便有了新的模样
+从此不再毫无意义地埋藏千年
+它成了冰雪宫殿里的点点荧光
+无法拥有所以珍贵
+无法停留所以哀怨
+白雪茫茫
+朦胧的一片
+冰之女神就在我身边
+到处都能听到她歌声
+只要倾听就能听见的歌声
+闭上双眼就能看到的模样
+紧握着如梦般冰凉的你的双手
+我想就这样，香甜地睡着
+…………&lt;/p&gt;
+
+&lt;p&gt;甜美而雪白的旋律幽幽响起
+雪球知道这个旋律会永远跳动
+为了留住洛丝
+温暖的旋律会自己融化
+将那梦般寒凉而香甜的冰之歌
+融进洛丝的心里
+就这样，洛丝之歌开始吟唱
+洛丝之歌嵌在一个冰雪的结晶里
+直到幽深寂寞的峡谷不再存在
+洛丝之歌藏在渴望获得光的欲望里
+直到寒冷美丽的雪花不再飘落
+洛丝之歌溶入孤单而寂寞的风里
+直到飘渺不定的风不再刮起
+…………
+只要少女心中有梦
+洛丝之歌就不会停止&lt;/p&gt;
+
+&lt;h4 id=&#34;6-6-渡鸦&#34;&gt;6.6 渡鸦&lt;/h4&gt;
+
+&lt;p&gt;一种全身黑色的大型雀形目鸦属鸟类，俗称胖头鸟。是雀形目中体体型最大的鸟类，共有12个&lt;a href=&#34;https://baike.baidu.com/item/%E4%BA%9A%E7%A7%8D/6290944&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;亚种&lt;/a&gt;。通体黑色，并闪紫蓝色金属光泽；尤以两翅为最显著。喉与胸前的羽毛长且呈披针状；鼻须长而发达，几乎盖到上嘴的一半。虹膜暗褐色；嘴、跗蹠和趾黑色。
+集群性强，常结群营巢，并在秋冬季节混群游荡。行为复杂，表现有较强的智力和社会性活动。鸣声简单粗厉。栖息于高山草甸和山区林缘地带。杂食性，主要取食小型啮齿类、小型鸟类、爬行类、昆虫和腐肉等，也取食植物的果实等，甚至人类活动的剩食等。&lt;/p&gt;
+
+&lt;h3 id=&#34;7-大纲&#34;&gt;7. 大纲&lt;/h3&gt;
+
+&lt;p&gt;序-起-承-转-合&lt;/p&gt;
+
+&lt;h4 id=&#34;7-1-序&#34;&gt;7.1 序&lt;/h4&gt;
+
+&lt;p&gt;为了解决公国边境班图族的来犯，冒险家们来到了斯顿雪域之中，却发现部落中发生了一位少女失踪的事件，于是两位冒险家和少女的哥哥一起踏入雪山，却在找到少女敏泰的同时意外发现了在雪山那端的巨大树影。&lt;/p&gt;
+
+&lt;h4 id=&#34;7-2-起&#34;&gt;7.2 起&lt;/h4&gt;
+
+&lt;p&gt;为了抵抗诺克萨斯的入侵，在艾欧尼亚各处寻找哥哥的艾瑞莉娅来到了艾欧尼亚神树生命之树的附近，她在生命之树山脚下被诺克萨斯人毁灭的瓦斯塔亚部落中找到了哥哥的踪迹，却在登上生命之树的路上意外遇到了策士统领斯维因率领的小队，一番激战过后艾瑞莉娅借着地形的掩护逃脱到了生命之树的更北方，艾欧尼亚自古以来的一片禁地。和充满生命力的艾欧尼亚不同，越过生命之树后的徒弟显得荒无人烟，被白茫茫的雪原所覆盖。而斯维因并没有放弃追击艾瑞莉娅，借助渡鸦的力量追上了艾瑞莉娅，命悬一线之际，遇上了来自阿拉德的四人小队，四人救下了艾瑞莉娅，敏泰认定艾瑞莉娅就是神谕中的宿命之人，于是四人将受重伤的艾瑞莉娅待会雪山另一边的斯顿雪域。斯维因却也跟着四人来到了万年雪山中。&lt;/p&gt;
+
+&lt;h4 id=&#34;7-3-承&#34;&gt;7.3 承&lt;/h4&gt;
+
+&lt;p&gt;艾瑞莉娅醒来发现自己已经身处在班图族的部落，敏泰向众人诉说了神谕的内容。
+另一边，因为阿法利亚营地传来更为严重的事态，冒险者们先一步赶去了阿法利亚营地，艾瑞莉娅希望雪山的众人协助自己越过雪山帮助艾欧尼亚抵抗诺克萨斯的入侵，作为交换，艾瑞莉娅依照神谕的指示，和冒险家一起帮助班图族除掉冰龙斯卡萨。
+而在雪山中失去方向的斯维因意外进入了斯卡萨的洞穴，和冰龙斯卡萨展开对峙，双方没有分出胜负，斯维因却在洞穴中意外遇到了一个神秘的吟游诗人，吟游诗人一眼看破他的所想，并且告诉了斯维因达克威尔长生不老的秘密。&lt;/p&gt;
+
+&lt;h4 id=&#34;7-4-转&#34;&gt;7.4 转&lt;/h4&gt;
+
+&lt;p&gt;冰龙斯卡萨因为被斯维因所惹怒，对斯顿雪域展开袭击，艾瑞莉娅家族世代相传的舞蹈其实是一种类似屠龙术的舞蹈，斯卡萨在大闹一番后对艾瑞莉娅产生了恐惧，但是这次突袭还是对斯顿雪域造成了巨大的损失。
+经过众人的商量，决定以艾瑞莉娅的屠龙舞作为杀手锏，主动出击消灭斯卡萨，三位冒险家、班图族的勇士和艾瑞莉娅一起踏入雪山。
+等待他们的第一个难关是一位冰巨人，竟然是三十年前就已经失踪的查理。
+第二个是雪山下洞穴利库天井中的寒冰巨人巴斯尔。
+第三个是本应死去的冰雪女王洛丝。&lt;/p&gt;
+
+&lt;h4 id=&#34;7-5-合&#34;&gt;7.5 合&lt;/h4&gt;
+
+&lt;p&gt;终于见到的冰龙斯卡萨，斯卡萨在雪山之中的能力远超众人的想象，在一番激战后艾瑞莉娅的屠龙之舞将斯卡萨击成重伤，斯卡萨感受到了屠龙舞中的危机，这次并不是三十年一次的沉睡就可以恢复力量，可能会彻底死去，于是斯卡萨使出全力反扑，斯卡萨的绝境中的反扑带给了冒险家们巨大的损失，在付出巨大的代价后终于将冰龙斯卡萨斩杀，再无复活的可能。
+最后艾瑞莉娅将前往阿法利亚营地帮助冒险家们对抗邪龙的苏醒，同时班图族和公国也决定出兵越过雪山，帮助艾欧尼亚对抗诺克萨斯的侵略。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Welcome to my blog</title>
@@ -16,6 +445,628 @@
       <guid>https://gokwok.github.io/2019/welcome/</guid>
       <description>&lt;p&gt;Welcome!&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>記第一次天池大數據競賽</title>
+      <link>https://gokwok.github.io/2019/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%A4%A9%E6%B1%A0%E5%A4%A7%E6%95%B8%E6%93%9A%E7%AB%B6%E8%B3%BD%E8%A8%98%E9%8C%84/</link>
+      <pubDate>Wed, 10 Jul 2019 21:30:03 +0000</pubDate>
+      
+      <guid>https://gokwok.github.io/2019/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%A4%A9%E6%B1%A0%E5%A4%A7%E6%95%B8%E6%93%9A%E7%AB%B6%E8%B3%BD%E8%A8%98%E9%8C%84/</guid>
+      <description>&lt;p&gt;這幾天參加了一下阿里的天池大數據競賽，初賽已經結束了，雖然差了一個百分點很遺憾沒有晉級下一輪，不過第一次參加這種比賽，能達到144/2522這樣的成績，我感覺也算過的去，关键是在4-5天的比赛里，确实学到了许多的东西，在此對這一次比賽的過程做一個記錄。
+比賽地址：&lt;a href=&#34;https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.5a8e8242Uuqy64&amp;amp;raceId=231638&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;天池精準醫療大賽——人工智能輔助糖尿病遺傳風險預測&lt;/a&gt;
+1. 數據集的處理
+首先看到比賽題目最直觀的能馬上得到的是主辦方給的測試集，入手以後看了下測試集，缺失內容非常之多，數據處理用*python*進行，主要使用*pandas*來查看數據。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;data_train = pd.read_csv(&amp;quot;.......csv&amp;quot;)
+data_train.columns 
+data = pd.concat([train,test],axis=0)
+print(data.isnull().sum()/len(data))    #查看數據的缺失比例
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;模型的選用
+這次比賽選用的是baseline的lighGBM，一開始用了nn效果不是很好，代碼如下：
+```python
+def make_feat(train,test):
+train_id = train.id.values.copy()
+test_id = test.id.values.copy()
+data = pd.concat([train,test])&lt;/p&gt;
+
+&lt;p&gt;data[&amp;lsquo;性别&amp;rsquo;] = data[&amp;lsquo;性别&amp;rsquo;].map({&amp;lsquo;男&amp;rsquo;:1,&amp;lsquo;女&amp;rsquo;:0,&amp;lsquo;??&amp;rsquo;:1})
+data[&amp;lsquo;体检日期&amp;rsquo;] = (pd.to_datetime(data[&amp;lsquo;体检日期&amp;rsquo;]) - parse(&amp;lsquo;2017-10-09&amp;rsquo;)).dt.days&lt;/p&gt;
+
+&lt;p&gt;data.fillna(data.median(axis=0),inplace=True)&lt;/p&gt;
+
+&lt;p&gt;train_feat = data[data.id.isin(train_id)]
+test_feat = data[data.id.isin(train_id)]&lt;/p&gt;
+
+&lt;p&gt;return train_feat,test_feat&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;train_feat,test_feat = make_feat(train,test)&lt;/p&gt;
+
+&lt;p&gt;predictors = [f for f in test_feat.columns if f not in [&amp;lsquo;血糖&amp;rsquo;]]&lt;/p&gt;
+
+&lt;p&gt;def evalerror(pred, df):
+    label = df.get_label().values.copy()
+    score = mean_squared_error(label,pred)*0.5
+    return (&amp;lsquo;0.5mse&amp;rsquo;,score,False)&lt;/p&gt;
+
+&lt;p&gt;print(&amp;lsquo;开始训练&amp;hellip;&amp;rsquo;)
+params = {
+    &amp;lsquo;learning_rate&amp;rsquo;: 0.01,
+    &amp;lsquo;boosting_type&amp;rsquo;: &amp;lsquo;gbdt&amp;rsquo;,
+    &amp;lsquo;objective&amp;rsquo;: &amp;lsquo;regression&amp;rsquo;,
+    &amp;lsquo;metric&amp;rsquo;: &amp;lsquo;mse&amp;rsquo;,
+    &amp;lsquo;sub_feature&amp;rsquo;: 0.7,
+    &amp;lsquo;num_leaves&amp;rsquo;: 60,
+    &amp;lsquo;colsample_bytree&amp;rsquo;: 0.7,
+    &amp;lsquo;min_data&amp;rsquo;: 100,
+    &amp;lsquo;min_hessian&amp;rsquo;: 1,
+    &amp;lsquo;verbose&amp;rsquo;: -1,
+}&lt;/p&gt;
+
+&lt;p&gt;print(&amp;lsquo;开始CV 5折训练&amp;hellip;&amp;rsquo;)
+t0 = time.time()
+train_preds = np.zeros(train_feat.shape[0])
+test_preds = np.zeros((test_feat.shape[0],5))
+kf = KFold(len(train_feat),n_folds=5,shuffle=True,random_state=520)
+for i,(train_index,test_index) in enumerate(kf):
+    print(&amp;lsquo;第{}次训练&amp;hellip;&amp;rsquo;.format(i))
+    train_feat1 = train_feat.iloc[train_index]
+    train_feat2 = train_feat.iloc[test_index]
+    lgb_train1 = lgb.Dataset(train_feat1[predictors],train_feat1[&amp;lsquo;血糖&amp;rsquo;])#,categorical_feature=[&amp;lsquo;性别&amp;rsquo;])
+    lgb_train2 = lgb.Dataset(train_feat2[predictors],train_feat2[&amp;lsquo;血糖&amp;rsquo;])
+    gbm = lgb.train(
+        params,
+        lgb_train1,
+        num_boost_round=3000,
+        valid_sets=lgb_train2,
+        verbose_eval=100,
+        feval=evalerror,
+        early_stopping_rounds=100
+    )
+    feat_imp = pd.Series(gbm.feature_importance(),index=predictors).sort_values(ascending=False)
+    train_preds[test_index] += gbm.predict(train_feat2[predictors])
+    test_preds[:,i] = gbm.predict(test_feat[predictors])
+print(&amp;lsquo;线下得分：    {}&amp;rsquo;.format(mean_squared_error(train_feat[&amp;lsquo;血糖&amp;rsquo;],train_preds)*0.5))
+print(&amp;lsquo;CV训练用时{}秒&amp;rsquo;.format(time.time() - t0))&lt;/p&gt;
+
+&lt;p&gt;submission = pd.DataFrame({&amp;lsquo;pred&amp;rsquo;:test_preds.mean(axis=1)})
+submission.to&lt;em&gt;csv(r&amp;rsquo;sub{}.csv&amp;rsquo;.format(datetime.datetime.now().strftime(&amp;lsquo;%Y%m%d&lt;/em&gt;%H%M%S&amp;rsquo;)),header=None,
+                  index=False,float_format=&amp;lsquo;%.4f&amp;rsquo;)
+```
+3. 展望
+數據的缺失補全，特征提取都有了一定的了解，不過沒進複賽很不甘心，下次再接再厲。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>hexo deplay失敗的解決方案</title>
+      <link>https://gokwok.github.io/2018/hexo-deplay%E5%A4%B1%E6%95%97%E7%9A%84%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88/</link>
+      <pubDate>Sun, 21 Jan 2018 20:33:56 +0000</pubDate>
+      
+      <guid>https://gokwok.github.io/2018/hexo-deplay%E5%A4%B1%E6%95%97%E7%9A%84%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88/</guid>
+      <description>&lt;p&gt;*今晚突然&lt;strong&gt;hexo deplay&lt;/strong&gt;跳出了一大片錯誤，但檢查了下網絡是沒有問題的，repository也是存在的，並且能正常與github通信，使用&lt;strong&gt;hexo server&lt;/strong&gt;部署在本地也沒有問題，報錯如下：*&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;INFO  Deploying: git
+INFO  Clearing .deploy_git folder...
+INFO  Copying files from public folder...
+INFO  Copying files from extend dirs...
+[master bbb080a] Site updated: 2018-01-21 20:27:34
+ 7 files changed, 8 insertions(+), 8 deletions(-)
+ssh_exchange_identification: Connection closed by remote host
+fatal: Could not read from remote repository.
+Please make sure you have the correct access rights
+and the repository exists.
+FATAL Something&#39;s wrong. Maybe you can find the solution here: http://hexo.io/docs/troubleshooting.html
+Error: ssh_exchange_identification: Connection closed by remote host
+fatal: Could not read from remote repository.
+Please make sure you have the correct access rights
+and the repository exists.
+    at ChildProcess.&amp;lt;anonymous&amp;gt; (/Users/gaowei/gokwok.github.io/node_modules/hexo-util/lib/spawn.js:37:17)
+    at ChildProcess.emit (events.js:159:13)
+    at maybeClose (internal/child_process.js:943:16)
+    at Socket.stream.socket.on (internal/child_process.js:363:11)
+    at Socket.emit (events.js:159:13)
+    at Pipe._handle.close [as _onclose] (net.js:568:12)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;試了很多辦法都沒有成功，後來看見&lt;a href=&#34;https://www.cnblogs.com/xsilence/p/6001938.html&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;這篇博客&lt;/a&gt;，把hexo根目錄下的*.deploy_git*文件夾刪除，重新部署一遍，解決了問題&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>numpy初步使用指南</title>
+      <link>https://gokwok.github.io/2018/numpy%E5%88%9D%E6%AD%A5%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97_ver2/</link>
+      <pubDate>Sun, 21 Jan 2018 18:22:11 +0000</pubDate>
+      
+      <guid>https://gokwok.github.io/2018/numpy%E5%88%9D%E6%AD%A5%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97_ver2/</guid>
+      <description>
+
+&lt;h2 id=&#34;一-概述&#34;&gt;一、概述&lt;/h2&gt;
+
+&lt;p&gt;Numpy是Python中的一個科學計算庫，提供了矩陣運算的功能，由於numpy提供了更多方便了函數，在實際的使用中numpy要優於python中的list。&lt;strong&gt;本文將會著重於機器學習過程中對numpy的使用需要了解的大致操作，來介紹numpy的初步使用指南。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;二-安裝和導入&#34;&gt;二、安裝和導入&lt;/h2&gt;
+
+&lt;p&gt;普通的pip操作即可完成安裝&lt;strong&gt;(若同時安裝了python2和python3想在python3中安裝請使用pip3)：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;pip install numpy
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;導入numpy：&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;import numpy as np
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;三-數據結構&#34;&gt;三、數據結構&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;numpy&lt;/strong&gt;的主要對象是同種元素的多維數組。這是一個所有的元素都是一種類型、通過一個正整數元組索引的元素表格（通常是數字表格）。在&lt;strong&gt;numpy&lt;/strong&gt;中維度叫做軸（&lt;strong&gt;axes&lt;/strong&gt;），軸的個數叫做秩（&lt;strong&gt;rank&lt;/strong&gt;）。
+打個比方，在三維空間中一個點的坐標*[1，2，3]*就是一個秩為1的數組，因為它軸的個數為1，該軸的長度為3。&lt;strong&gt;numpy&lt;/strong&gt;的數組類叫做&lt;strong&gt;ndarry&lt;/strong&gt;，通常被稱作&lt;strong&gt;數組&lt;/strong&gt;，它與標準Python庫類array.array並不相同，後者只處理一維數組和提供少量功能。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ndarry&lt;/strong&gt;的主要對象屬性有：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;ndarray.ndim&lt;/strong&gt;：軼的值&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;ndarray.shape&lt;/strong&gt;：數組的維度。這是一個指示數組在每個維度上大小的整數元組。例如一個n排m列的矩陣，他的&lt;strong&gt;shape&lt;/strong&gt;屬性就是（2，3），這個元組的長度是軼，即維度或是ndim屬性&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;ndarray.size&lt;/strong&gt;：數組元素的總個數，等於shape屬性中元組元素的乘積&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;ndarray.dtype&lt;/strong&gt;：一個用來描述數組中元素類型的對象，可以通過創造或指定&lt;strong&gt;dtype&lt;/strong&gt;使用標準的Python類型，也可以使用&lt;strong&gt;numpy&lt;/strong&gt;自己提供的數據類型&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;ndarray.itemsize&lt;/strong&gt;：數組中每個元素的字節大小。例如，一個元素類型為float64的數組itemsiz屬性值為*（64/8=）*8&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;ndarray.data&lt;/strong&gt;：包含實際數組元素的緩衝區，通常不使用這個屬性&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;四-使用numpy&#34;&gt;四、使用numpy&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;4.1 創建數組&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;使用array函數從常規的Python列表和元組創造數組。所創建的數組類型由原序列中的元素類型推導而來。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;&amp;gt;&amp;gt;&amp;gt; a = array([2,3,4])  #RIGHT
+&amp;gt;&amp;gt;&amp;gt; a = array(2,3,4)    #WRONG
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ol&gt;
+&lt;li&gt;數組將序列包含序列轉化為二維的數組，序列包含序列包含序列轉化成三維數組。
+&lt;code&gt;python
+&amp;gt;&amp;gt;&amp;gt; b = array([(1,2,3,4),(1,2,3,4)])
+&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;數組類型可以在創建的時候指定&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;&amp;gt;&amp;gt;&amp;gt; c = array([[1,2],[3,4]],dtype=complex)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;一般來說，數組的元素開始都是未知的，但是它的大小是已知的。&lt;strong&gt;numpy&lt;/strong&gt;提供了一些使用佔位符創建數組的函數。函數&lt;strong&gt;zeros&lt;/strong&gt;創建一個全是0的數組，函數&lt;strong&gt;ones&lt;/strong&gt;創建一個全1的數組，函數&lt;strong&gt;empty&lt;/strong&gt;創建一個內容隨機並且依賴於內存狀態的數組。默認創建的數組類型（dtype）都是float64.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;為了創建一個數列，&lt;strong&gt;numpy&lt;/strong&gt;提供了一個類似&lt;strong&gt;arrange&lt;/strong&gt;的函數返回數組而不是列表：&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;&amp;gt;&amp;gt;&amp;gt; arange(10,30,5)
+array([10,15,20,25])
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;4.2 打印數組&lt;/strong&gt;
+當你打印一個數組，&lt;strong&gt;numpy&lt;/strong&gt;以類似嵌套列表的形式顯示它，但是呈以下布局：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;最後的軸從左到右打印&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;次後的軸從頂向下打印&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;剩下的軸從頂向下打印，每個切片通過一個空行與下一個隔開&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;&amp;gt;&amp;gt;&amp;gt;a = array(6)
+&amp;gt;&amp;gt;&amp;gt;print(a)
+[0 1 2 3 4 5]
+&amp;gt;&amp;gt;&amp;gt;b = arange(12).reshape(4,3)
+&amp;gt;&amp;gt;&amp;gt;print(b)
+[[ 0 1 2 ]
+  [ 3 4 5 ]
+  [ 6 7 8 ]
+  [9 10 11]]
+&amp;gt;&amp;gt;&amp;gt; c = arange(24).reshape(2,3,4)      
+&amp;gt;&amp;gt;&amp;gt; print c
+[[[ 0  1  2  3]
+  [ 4  5  6  7]
+  [ 8  9 10 11]]
+
+ [[12 13 14 15]
+  [16 17 18 19]
+  [20 21 22 23]]]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;如果一個數組用來打印太大了，&lt;strong&gt;numpy&lt;/strong&gt;自動省略中間部分只打印角落&lt;/p&gt;
+
+&lt;p&gt;如果想要禁用這種行為並強制打印整個數組，可以設置printoptions參數來更改打印選項&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;&amp;gt;&amp;gt;&amp;gt; set_printoptions(threshold=&#39;nan&#39;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;4.3 基本運算&lt;/strong&gt;
+1. 數組的算是運算時按元素的。新的數組被創建而且結果被填充
+2. &lt;strong&gt;numpy&lt;/strong&gt;中乘法運算符*指示按元素運算，矩陣乘法可以用&lt;strong&gt;dot&lt;/strong&gt;函數或創建舉證對象實現
+3. 有些操作符像&lt;strong&gt;+=&lt;/strong&gt;和*&lt;strong&gt;=&lt;/strong&gt;被用來更改已存在數組而不是創建一個新的數組
+4. 通用函數，&lt;strong&gt;numpy&lt;/strong&gt;中提供常用的數學函數如*sin*，*cos*，*tan*，這些叫做通用函數，常用的通用函數之後會開個單篇介紹。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4.4 索引、切片和迭代&lt;/strong&gt;
+一維數組可以被索引、切片和迭代，就像列表和其他python序列。
+多維數組可以每個軸有一個所有。這些索引由一個逗號分隔的元組給出。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;&amp;gt;&amp;gt;&amp;gt; def f(x,y):
+...         return 10*x+y
+...
+&amp;gt;&amp;gt;&amp;gt; b = fromfunction(f,(5,4),dtype=int)
+&amp;gt;&amp;gt;&amp;gt; b
+array([[ 0,  1,  2,  3],
+       [10, 11, 12, 13],
+       [20, 21, 22, 23],
+       [30, 31, 32, 33],
+       [40, 41, 42, 43]])
+&amp;gt;&amp;gt;&amp;gt; b[2,3]
+23
+&amp;gt;&amp;gt;&amp;gt; b[0:5, 1]                       # each row in the second column of b
+array([ 1, 11, 21, 31, 41])
+&amp;gt;&amp;gt;&amp;gt; b[ : ,1]                        # equivalent to the previous example
+array([ 1, 11, 21, 31, 41])
+&amp;gt;&amp;gt;&amp;gt; b[1:3, : ]                      # each column in the second and third row of b
+array([[10, 11, 12, 13],
+       [20, 21, 22, 23]])
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;當少於軸數的索引被提供時，缺失的索引默認為整個切片。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4.5 形狀操作&lt;/strong&gt;
+一個數組的形狀由它每個軸上的元素的個數給出。
+一個數組的形狀可以被多種命令修改：&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;&amp;gt;&amp;gt;&amp;gt; a = floor(10*random.random((3,4)))
+&amp;gt;&amp;gt;&amp;gt; a
+array([[ 7.,  5.,  9.,  3.],
+       [ 7.,  2.,  7.,  8.],
+       [ 6.,  8.,  3.,  2.]])
+&amp;gt;&amp;gt;&amp;gt; a.shape
+(3, 4)
+&amp;gt;&amp;gt;&amp;gt; a.ravel() # flatten the array
+array([ 7.,  5.,  9.,  3.,  7.,  2.,  7.,  8.,  6.,  8.,  3.,  2.])
+&amp;gt;&amp;gt;&amp;gt; a.shape = (6, 2)
+&amp;gt;&amp;gt;&amp;gt; a.transpose()
+array([[ 7.,  9.,  7.,  7.,  6.,  3.],
+       [ 5.,  3.,  2.,  8.,  8.,  2.]])
+&amp;gt;&amp;gt;&amp;gt; a
+array([[ 7.,  5.],
+       [ 9.,  3.],
+       [ 7.,  2.],
+       [ 7.,  8.],
+       [ 6.,  8.],
+       [ 3.,  2.]])
+&amp;gt;&amp;gt;&amp;gt; a.resize((2,6))
+&amp;gt;&amp;gt;&amp;gt; a
+array([[ 7.,  5.,  9.,  3.,  7.,  2.],
+       [ 7.,  8.,  6.,  8.,  3.,  2.]])
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;reshape&lt;/strong&gt;函數改變的改變shape參數形狀返回它，而&lt;strong&gt;resize&lt;/strong&gt;函數是改變數組自身&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4.6 組合不同的數組&lt;/strong&gt;
+&lt;strong&gt;vstack&lt;/strong&gt;和&lt;strong&gt;hstack&lt;/strong&gt;可以沿不用軸將數組堆疊在一起。
+&lt;strong&gt;column_stack&lt;/strong&gt;以列的形式將一維數組合成二維數組，它等同於&lt;strong&gt;vstack&lt;/strong&gt;函數對一維數組。
+&lt;strong&gt;row_stack&lt;/strong&gt;則是以行將一維數組合成二維數組。
+&lt;strong&gt;hsplit&lt;/strong&gt;能將數組沿水平軸分割成幾個數組，可以指定返回相同形狀的數組的個數，也可以指定那些列發生分割，同理&lt;strong&gt;vsplit&lt;/strong&gt;沿縱軸分割，&lt;strong&gt;array split&lt;/strong&gt;允許指定沿哪個軸分割。&lt;/p&gt;
+
+&lt;h2 id=&#34;五-總結&#34;&gt;五、總結&lt;/h2&gt;
+
+&lt;p&gt;做個常用的&lt;strong&gt;numpy&lt;/strong&gt;操作函數總結：&lt;/p&gt;
+
+&lt;p&gt;創建數組
+&lt;code&gt;arange, array, copy, empty, empty_like, eye, fromfile, fromfunction,identity, linspace, logspace, mgrid, ogrid, ones, ones_like, r , zeros, zeros_like&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;轉化
+&lt;code&gt;astype, atleast 1d, atleast 2d, atleast 3d, mat&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;操作
+&lt;code&gt;array split, column stack, concatenate, diagonal, dsplit, dstack, hsplit, hstack, item, newaxis, ravel, repeat, reshape, resize, squeeze, swapaxes, take, transpose, vsplit, vstack&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;詢問
+&lt;code&gt;all, any, nonzero, where&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;排序
+&lt;code&gt;argmax, argmin, argsort, max, min, ptp, searchsorted, sort&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;運算
+&lt;code&gt;choose, compress, cumprod, cumsum, inner, fill, imag, prod, put, putmask, real, sum&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;基本統計
+&lt;code&gt;cov, mean, std, var&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;基本線性代數
+&lt;code&gt;cross, dot, outer, svd, vdot&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;numpy&lt;/strong&gt;在機器學習中的應用主要還是在算法階段，在數據處理階段&lt;strong&gt;pandas&lt;/strong&gt;庫使用得更多。熟悉&lt;strong&gt;numpy&lt;/strong&gt;庫有助於我們更好得自己實現各種機器學習的算法。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;參考博客：&lt;a href=&#34;http://blog.csdn.net/lsjseu/article/details/20359201?utm_source=tuicool&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;NumPy的詳細教程&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>python實現簡繁體轉換腳本</title>
+      <link>https://gokwok.github.io/2018/python%E5%AF%A6%E7%8F%BE%E7%B0%A1%E7%B9%81%E9%AB%94%E8%BD%89%E6%8F%9B%E8%85%B3%E6%9C%AC/</link>
+      <pubDate>Tue, 16 Jan 2018 15:46:24 +0000</pubDate>
+      
+      <guid>https://gokwok.github.io/2018/python%E5%AF%A6%E7%8F%BE%E7%B0%A1%E7%B9%81%E9%AB%94%E8%BD%89%E6%8F%9B%E8%85%B3%E6%9C%AC/</guid>
+      <description>&lt;p&gt;因為本博客使用的字體是&lt;strong&gt;明朝&lt;/strong&gt;（*HiraMinProN*），該字體頗有古風，很符合個人的口味，Apple的設備無論是ios還是mac都內置了該字體。但是在使用中它對於簡體中文的支持很差，存在很多未覆蓋的字符。如果使用繁體中文書寫博客，應用該字體的效果還是不錯的。所以為了對中文的博文進行處理，使用*python*編寫了以下輕量級的簡繁體中文轉化腳本。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;所需要的Python庫：&lt;/strong&gt;&lt;a href=&#34;https://github.com/csdz/nstools/blob/master/zhtools/zh_wiki.py&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;zh_wiki.py&lt;/a&gt;,&lt;a href=&#34;https://github.com/csdz/nstools/blob/master/zhtools/langconv.py&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;langconv&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;代碼編寫：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from langconv import *
+class article:
+    &#39;&#39;&#39;
+    图片处理类
+    参数
+    -------------
+    infile: 输入文件路径
+    outfile： 输出文件路径
+    &#39;&#39;&#39;
+    def __init__(self,infile,outfile):
+        self.infile = infile
+        self.outfile = outfile
+    #简体转繁体
+    def simple2traditon(self):
+        fp = open(self.outfile,&#39;w&#39;)
+        with open(self.infile) as t:
+            for line in t:
+                print(line)
+                line = Converter(&#39;zh-hant&#39;).convert(line)
+                print(line)
+                fp.write(line)
+        fp.close()
+    #繁体转简体
+    def tradition2simple(self):
+        fp = open(self.outfile, &#39;w&#39;)
+        with open(self.infile) as t:
+            for line in t:
+                line = Converter(&#39;zh-hans&#39;).convert(line)
+                fp.write(line)
+        fp.close()
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;實現效果：
+&lt;strong&gt;轉換前:&lt;/strong&gt; 唐僧为什么要取经——《西游记》中的政治路线图
+&lt;strong&gt;轉換后:&lt;/strong&gt; 唐僧為什麼要取經——《西遊記》中的政治路線圖
+單行較長時速度一般，處理大文件速度一般，但是足夠輕量級，處理博文已經完全夠用&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;寫在最後：&lt;/strong&gt;希望能體會到更多文字本身的美，深藏于文字內部的美。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;參考博客：&lt;a href=&#34;http://blog.csdn.net/tab_space/article/details/50823073&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;简体中文转繁体的python简单实现&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>項脊軒記</title>
+      <link>https://gokwok.github.io/2018/%E9%A0%85%E8%84%8A%E8%BB%92%E8%A8%98/</link>
+      <pubDate>Tue, 16 Jan 2018 15:00:46 +0000</pubDate>
+      
+      <guid>https://gokwok.github.io/2018/%E9%A0%85%E8%84%8A%E8%BB%92%E8%A8%98/</guid>
+      <description>&lt;p&gt;項脊軒，舊南閣子也。室僅方丈，可容壹人居。百年老屋，塵泥滲漉，雨澤下註；每移案，顧視，無可置者。又北向，不能得日，日過午已昏。余稍為修葺，使不上漏。前辟四窗，垣墻周庭，以當南日，日影反照，室始洞然。又雜植蘭桂竹木於庭，舊時欄楯，亦遂增勝。借書滿架，偃仰嘯歌，冥然兀坐，萬籟有聲；而庭堦寂寂，小鳥時來啄食，人至不去。三五之夜，明月半墻，桂影斑駁，風移影動，珊珊可愛。
+然余居於此，多可喜，亦多可悲。先是庭中通南北為壹。迨諸父異爨，內外多置小門，墻往往而是。東犬西吠，客逾庖而宴，雞棲於廳。庭中始為籬，已為墻，凡再變矣。家有老嫗，嘗居於此。嫗，先大母婢也，乳二世，先妣撫之甚厚。室西連於中閨，先妣嘗壹至。嫗每謂余曰：”某所，而母立於茲。”嫗又曰：”汝姊在吾懷，瓜瓜而泣；娘以指叩門扉曰：‘兒寒乎？欲食乎？’吾從板外相為應答。”語未畢，余泣，嫗亦泣。余自束發，讀書軒中，壹日，大母過余曰：”吾兒，久不見若影，何竟日默默在此，大類女郎也？”比去，以手闔門，自語曰：”吾家讀書久不效，兒之成，則可待乎！”頃之，持壹象笏至，曰：”此吾祖太常公宣德間執此以朝，他日汝當用之！”瞻顧遺跡，如在昨日，令人長號不自禁。
+軒東，故嘗為廚，人往，從軒前過。余扃牖而居，久之，能以足音辨人。軒凡四遭火，得不焚，殆有神護者。
+項脊生曰：”蜀清守丹穴，利甲天下，其後秦皇帝築女懷清臺；劉玄德與曹操爭天下，諸葛孔明起隴中。方二人之昧昧於壹隅也，世何足以知之，余區區處敗屋中，方揚眉、瞬目，謂有奇景。人知之者，其謂與坎井之蛙何異？”
+余既為此誌，後五年，吾妻來歸，時至軒中，從余問古事，或憑幾學書。吾妻歸寧，述諸小妹語曰：”聞姊家有閣子，且何謂閣子也？”其後六年，吾妻死，室壞不修。其後二年，余久臥病無聊，乃使人復葺南閣子，其制稍異於前。然自後余多在外，不常居。
+庭有枇杷樹，吾妻死之年所手植也，今已亭亭如蓋矣。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>markdown測試</title>
+      <link>https://gokwok.github.io/2017/markdown%E6%B8%AC%E8%A9%A6/</link>
+      <pubDate>Mon, 18 Dec 2017 09:59:46 +0000</pubDate>
+      
+      <guid>https://gokwok.github.io/2017/markdown%E6%B8%AC%E8%A9%A6/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;馬克飛象&lt;/strong&gt;是一款專為印象筆記（Evernote）打造的Markdown編輯器，通過精心的設計與技術實現，配合印象筆記強大的存儲和同步功能，帶來前所未有的書寫體驗。特點概述：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;功能豐富&lt;/strong&gt; ：支持高亮代碼塊、&lt;em&gt;LaTeX&lt;/em&gt; 公式、流程圖，本地圖片以及附件上傳，甚至截圖粘貼，工作學習好幫手；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;得心應手&lt;/strong&gt; ：簡潔高效的編輯器，提供&lt;a href=&#34;http://maxiang.info/client_zh&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;桌面客戶端&lt;/a&gt;以及&lt;a href=&#34;https://chrome.google.com/webstore/detail/kidnkfckhbdkfgbicccmdggmpgogehop&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;離線Chrome App&lt;/a&gt;，支持移動端 Web；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;深度整合&lt;/strong&gt; ：支持選擇筆記本和添加標籤，支持從印象筆記跳轉編輯，輕鬆管理。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[TOC]&lt;/p&gt;
+
+&lt;h2 id=&#34;markdown簡介&#34;&gt;Markdown簡介&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Markdown 是一種輕量級標記語言，它允許人們使用易讀易寫的純文本格式編寫文檔，然後轉換成格式豐富的HTML頁面。    —— &lt;a href=&#34;https://zh.wikipedia.org/wiki/Markdown&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;維基百科&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;正如您在閱讀的這份文檔，它使用簡單的符號標識不同的標題，將某些文字標記為&lt;strong&gt;粗體&lt;/strong&gt;或者*斜體*，創建一個&lt;a href=&#34;http://www.example.com&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;鏈接&lt;/a&gt;或一個腳註&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:demo&#34;&gt;&lt;a href=&#34;#fn:demo&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;。下面列舉了幾個高級功能，更多語法請按&lt;code&gt;Ctrl + /&lt;/code&gt;查看幫助。&lt;/p&gt;
+
+&lt;h3 id=&#34;代碼塊&#34;&gt;代碼塊&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;@requires_authorization
+def somefunc(param1=&#39;&#39;, param2=0):
+    &#39;&#39;&#39;A docstring&#39;&#39;&#39;
+    if param1 &amp;gt; param2: # interesting
+        print &#39;Greater&#39;
+    return (param2 - param1 + 1) or None
+class SomeClass:
+    pass
+&amp;gt;&amp;gt;&amp;gt; message = &#39;&#39;&#39;interpreter
+... prompt&#39;&#39;&#39;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;latex-公式&#34;&gt;LaTeX 公式&lt;/h3&gt;
+
+&lt;p&gt;可以創建行內公式，例如 $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$。或者塊級公式：&lt;/p&gt;
+
+&lt;p&gt;$$  x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$&lt;/p&gt;
+
+&lt;h3 id=&#34;表格&#34;&gt;表格&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Item&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Value&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Qty&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Computer&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1600 USD&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Phone&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;12 USD&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;12&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Pipe&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1 USD&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;234&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;流程圖&#34;&gt;流程圖&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-flow&#34;&gt;st=&amp;gt;start: Start
+e=&amp;gt;end
+op=&amp;gt;operation: My Operation
+cond=&amp;gt;condition: Yes or No?
+
+st-&amp;gt;op-&amp;gt;cond
+cond(yes)-&amp;gt;e
+cond(no)-&amp;gt;op
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;以及時序圖:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-sequence&#34;&gt;Alice-&amp;gt;Bob: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+Bob--&amp;gt;Alice: I am good thanks!
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;提示：&lt;/strong&gt;想了解更多，請查看&lt;strong&gt;流程圖&lt;/strong&gt;&lt;a href=&#34;http://adrai.github.io/flowchart.js/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;語法&lt;/a&gt;以及&lt;strong&gt;時序圖&lt;/strong&gt;&lt;a href=&#34;http://bramp.github.io/js-sequence-diagrams/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;語法&lt;/a&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;複選框&#34;&gt;複選框&lt;/h3&gt;
+
+&lt;p&gt;使用 &lt;code&gt;- [ ]&lt;/code&gt; 和 &lt;code&gt;- [x]&lt;/code&gt; 語法可以創建複選框，實現 todo-list 等功能。例如：&lt;/p&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 已完成事項&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; 待辦事項1&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; 待辦事項2&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;注意：&lt;/strong&gt;目前支持尚不完全，在印象筆記中勾選複選框是無效、不能同步的，所以必須在&lt;strong&gt;馬克飛象&lt;/strong&gt;中修改 Markdown 原文才可生效。下個版本將會全面支持。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;印象筆記相關&#34;&gt;印象筆記相關&lt;/h2&gt;
+
+&lt;h3 id=&#34;筆記本和標籤&#34;&gt;筆記本和標籤&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;馬克飛象&lt;/strong&gt;增加了&lt;code&gt;@(筆記本)[標籤A|標籤B]&lt;/code&gt;語法, 以選擇筆記本和添加標籤。 &lt;strong&gt;綁定賬號後&lt;/strong&gt;， 輸入&lt;code&gt;(&lt;/code&gt;自動會出現筆記本列表，請從中選擇。&lt;/p&gt;
+
+&lt;h3 id=&#34;筆記標題&#34;&gt;筆記標題&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;馬克飛象&lt;/strong&gt;會自動使用文檔內出現的第一個標題作為筆記標題。例如本文，就是第一行的 &lt;code&gt;歡迎使用馬克飛象&lt;/code&gt;。&lt;/p&gt;
+
+&lt;h3 id=&#34;快捷編輯&#34;&gt;快捷編輯&lt;/h3&gt;
+
+&lt;p&gt;保存在印象筆記中的筆記，右上角會有一個紅色的編輯按鈕，點擊後會回到&lt;strong&gt;馬克飛象&lt;/strong&gt;中打開並編輯該筆記。
+&amp;gt;&lt;strong&gt;注意：&lt;/strong&gt;目前用戶在印象筆記中單方面做的任何修改，馬克飛象是無法自動感知和更新的。所以請務必回到馬克飛象編輯。&lt;/p&gt;
+
+&lt;h3 id=&#34;數據同步&#34;&gt;數據同步&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;馬克飛象&lt;/strong&gt;通過&lt;strong&gt;將Markdown原文以隱藏內容保存在筆記中&lt;/strong&gt;的精妙設計，實現了對Markdown的存儲和再次編輯。既解決了其他產品只是單嚮導出HTML的單薄，又規避了服務端存儲Markdown帶來的隱私安全問題。這樣，服務端僅作為對印象筆記 API調用和數據轉換之用。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;隱私聲明：用戶所有的筆記數據，均保存在印象筆記中。馬克飛象不存儲用戶的任何筆記數據。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;離線存儲&#34;&gt;離線存儲&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;馬克飛象&lt;/strong&gt;使用瀏覽器離線存儲將內容實時保存在本地，不必擔心網絡斷掉或瀏覽器崩潰。為了節省空間和避免衝突，已同步至印象筆記並且不再修改的筆記將刪除部分本地緩存，不過依然可以隨時通過&lt;code&gt;文檔管理&lt;/code&gt;打開。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;注意：&lt;/strong&gt;雖然瀏覽器存儲大部分時候都比較可靠，但印象筆記作為專業雲存儲，更值得信賴。以防萬一，&lt;strong&gt;請務必經常及時同步到印象筆記&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;編輯器相關&#34;&gt;編輯器相關&lt;/h2&gt;
+
+&lt;h3 id=&#34;設置&#34;&gt;設置&lt;/h3&gt;
+
+&lt;p&gt;右側系統菜單（快捷鍵&lt;code&gt;Ctrl + M&lt;/code&gt;）的&lt;code&gt;設置&lt;/code&gt;中，提供了界面字體、字號、自定義CSS、vim/emacs 鍵盤模式等高級選項。&lt;/p&gt;
+
+&lt;h3 id=&#34;快捷鍵&#34;&gt;快捷鍵&lt;/h3&gt;
+
+&lt;p&gt;幫助    &lt;code&gt;Ctrl + /&lt;/code&gt;
+同步文檔    &lt;code&gt;Ctrl + S&lt;/code&gt;
+創建文檔    &lt;code&gt;Ctrl + Alt + N&lt;/code&gt;
+最大化編輯器    &lt;code&gt;Ctrl + Enter&lt;/code&gt;
+預覽文檔 &lt;code&gt;Ctrl + Alt + Enter&lt;/code&gt;
+文檔管理    &lt;code&gt;Ctrl + O&lt;/code&gt;
+系統菜單    &lt;code&gt;Ctrl + M&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;加粗    &lt;code&gt;Ctrl + B&lt;/code&gt;
+插入圖片    &lt;code&gt;Ctrl + G&lt;/code&gt;
+插入鏈接    &lt;code&gt;Ctrl + L&lt;/code&gt;
+提升標題    &lt;code&gt;Ctrl + H&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;關於收費&#34;&gt;關於收費&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;馬克飛象&lt;/strong&gt;為新用戶提供 10 天的試用期，試用期過後需要&lt;a href=&#34;maxiang.info/vip.html&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;續費&lt;/a&gt;才能繼續使用。未購買或者未及時續費，將不能同步新的筆記。之前保存過的筆記依然可以編輯。&lt;/p&gt;
+
+&lt;h2 id=&#34;反饋與建議&#34;&gt;反饋與建議&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;微博：&lt;a href=&#34;http://weibo.com/u/2788354117&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@馬克飛象&lt;/a&gt;，&lt;a href=&#34;http://weibo.com/ggock&#34; title=&#34;開發者個人賬號&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;@GGock&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;郵箱：&lt;a href=&#34;mailto:hustgock@gmail.com&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;hustgock@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;感謝閱讀這份幫助文檔。請點擊右上角，綁定印象筆記賬號，開啟全新的記錄與分享體驗吧。&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:demo&#34;&gt;這是一個示例腳註。請查閱 &lt;a href=&#34;https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#footnotes&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;MultiMarkdown 文檔&lt;/a&gt; 關於腳註的說明。 &lt;strong&gt;限制：&lt;/strong&gt; 印象筆記的筆記內容使用 &lt;a href=&#34;https://dev.yinxiang.com/doc/articles/enml.php&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;ENML&lt;/a&gt; 格式，基於 HTML，但是不支持某些標籤和屬性，例如id，這就導致&lt;code&gt;腳註&lt;/code&gt;和&lt;code&gt;TOC&lt;/code&gt;無法正常點擊。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:demo&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description>
     </item>
     
     <item>

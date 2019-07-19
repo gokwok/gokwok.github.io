@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+  <meta http-equiv="content-type" content="text/html;charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noodp"/>
+  <meta name="author" content="gokwok">
+  
+  
+  
+  <link rel="prev" href="https://gokwok.github.io/2018/numpy%E5%88%9D%E6%AD%A5%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97_ver2/" />
+  <link rel="next" href="https://gokwok.github.io/2019/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%A4%A9%E6%B1%A0%E5%A4%A7%E6%95%B8%E6%93%9A%E7%AB%B6%E8%B3%BD%E8%A8%98%E9%8C%84/" />
+  <link rel="canonical" href="https://gokwok.github.io/2018/hexo-deplay%E5%A4%B1%E6%95%97%E7%9A%84%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88/" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+  <title>
+       
+       
+           hexo deplay失敗的解決方案 | Aporia Zone
+       
+  </title>
+  <meta name="title" content="hexo deplay失敗的解決方案 | Aporia Zone">
+    
+  
+  <link rel="stylesheet" href="/font/iconfont.css">
+  <link rel="stylesheet" href="/css/main.min.css">
+
+
+  
+  
+ 
+
+<script type="application/ld+json">
+ "@context" : "http://schema.org",
+    "@type" : "BlogPosting",
+    "mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "https:\/\/gokwok.github.io\/"
+    },
+    "articleSection" : "posts",
+    "name" : "hexo deplay失敗的解決方案",
+    "headline" : "hexo deplay失敗的解決方案",
+    "description" : "*今晚突然hexo deplay跳出了一大片錯誤，但檢查了下網絡是沒有問題的，repository也是存在的，並且能正常與github通信，使用hexo server部署在本地也沒有問題，報錯如下：*\nINFO Deploying: git INFO Clearing .deploy_git folder... INFO Copying files from public folder... INFO Copying files from extend dirs... [master bbb080a] Site updated: 2018-01-21 20:27:34 7 files changed, 8 insertions(\x2b), 8 deletions(-) ssh_exchange_identification: Connection closed by remote host fatal: Could not read from remote repository. Please make sure you have the correct access rights and the repository exists. FATAL Something\x27s wrong. Maybe you can find the solution here: http:\/\/hexo.",
+    "inLanguage" : "en-us",
+    "author" : "gokwok",
+    "creator" : "gokwok",
+    "publisher": "gokwok",
+    "accountablePerson" : "gokwok",
+    "copyrightHolder" : "gokwok",
+    "copyrightYear" : "2018",
+    "datePublished": "2018-01-21 20:33:56 \x2b0000 UTC",
+    "dateModified" : "2018-01-21 20:33:56 \x2b0000 UTC",
+    "url" : "https:\/\/gokwok.github.io\/2018\/hexo-deplay%E5%A4%B1%E6%95%97%E7%9A%84%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88\/",
+    "wordCount" : "120",
+    "keywords" : [ "bug", "Aporia Zone"]
+}
+</script>
+
+</head>
+
+  
+
+
+  <body class="">
+    <div class="wrapper">
+        <nav class="navbar">
+    <div class="container">
+        <div class="navbar-header header-logo">
+        	<a href="javascript:void(0);" class="theme-switch"><i class="iconfont icon-xihuan"></i></a>&nbsp;<a href="https://gokwok.github.io/">Aporia Zone</a>
+        </div>
+        <div class="menu navbar-right">
+                
+                
+                <a class="menu-item" href="/posts/" title="">Blog</a>
+                
+                <a class="menu-item" href="/categories/" title="">Categories</a>
+                
+                <a class="menu-item" href="/tags/" title="">Tags</a>
+                
+                <a class="menu-item" href="/about/" title="">About</a>
+                
+        </div>
+    </div>
+</nav>
+<nav class="navbar-mobile" id="nav-mobile" style="display: none">
+     <div class="container">
+        <div class="navbar-header">
+            <div>  <a href="javascript:void(0);" class="theme-switch"><i class="iconfont icon-xihuan"></i></a>&nbsp;<a href="https://gokwok.github.io/">Aporia Zone</a></div>
+            <div class="menu-toggle">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+     
+          <div class="menu" id="mobile-menu">
+                
+                
+                <a class="menu-item" href="/posts/" title="">Blog</a>
+                
+                <a class="menu-item" href="/categories/" title="">Categories</a>
+                
+                <a class="menu-item" href="/tags/" title="">Tags</a>
+                
+                <a class="menu-item" href="/about/" title="">About</a>
+                
+        </div>
+    </div>
+</nav>
+    	 <main class="main">
+          <div class="container">
+      		
+<article class="post-warp" itemscope itemtype="http://schema.org/Article">
+    <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">hexo deplay失敗的解決方案</h1>
+        <div class="post-meta">
+                Written by <a itemprop="name" href="https://gokwok.github.io/" rel="author">gokwok</a> with ♥ 
+                <span class="post-time">
+                on <time datetime=2018-01-21 itemprop="datePublished">January 21, 2018</time>
+                </span>
+                in
+                <i class="iconfont icon-folder"></i>
+                <span class="post-category">
+                        <a href="https://gokwok.github.io/categories/hexo/"> hexo </a>
+                        
+                </span>
+        </div>
+    </header>
+    <div class="post-content">
+        
+
+        
+
+        
+        
+     
+          
+          
+          
+
+          
+          
+          
+
+          <p>*今晚突然<strong>hexo deplay</strong>跳出了一大片錯誤，但檢查了下網絡是沒有問題的，repository也是存在的，並且能正常與github通信，使用<strong>hexo server</strong>部署在本地也沒有問題，報錯如下：*</p>
+
+<pre><code>INFO  Deploying: git
+INFO  Clearing .deploy_git folder...
+INFO  Copying files from public folder...
+INFO  Copying files from extend dirs...
+[master bbb080a] Site updated: 2018-01-21 20:27:34
+ 7 files changed, 8 insertions(+), 8 deletions(-)
+ssh_exchange_identification: Connection closed by remote host
+fatal: Could not read from remote repository.
+Please make sure you have the correct access rights
+and the repository exists.
+FATAL Something's wrong. Maybe you can find the solution here: http://hexo.io/docs/troubleshooting.html
+Error: ssh_exchange_identification: Connection closed by remote host
+fatal: Could not read from remote repository.
+Please make sure you have the correct access rights
+and the repository exists.
+    at ChildProcess.&lt;anonymous&gt; (/Users/gaowei/gokwok.github.io/node_modules/hexo-util/lib/spawn.js:37:17)
+    at ChildProcess.emit (events.js:159:13)
+    at maybeClose (internal/child_process.js:943:16)
+    at Socket.stream.socket.on (internal/child_process.js:363:11)
+    at Socket.emit (events.js:159:13)
+    at Pipe._handle.close [as _onclose] (net.js:568:12)
+</code></pre>
+
+<p><strong>試了很多辦法都沒有成功，後來看見<a href="https://www.cnblogs.com/xsilence/p/6001938.html" rel="nofollow noreferrer" target="_blank">這篇博客</a>，把hexo根目錄下的*.deploy_git*文件夾刪除，重新部署一遍，解決了問題</strong></p>
+
+    </div>
+
+    <div class="post-copyright">
+             
+            <p class="copyright-item">
+                <span>Author:</span>
+                <span>gokwok </span>
+                </p>
+            
+           
+             
+            <p class="copyright-item">
+                    <span>Link:</span>
+                    <a href=https://gokwok.github.io/2018/hexo-deplay%E5%A4%B1%E6%95%97%E7%9A%84%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88/>https://gokwok.github.io/2018/hexo-deplay%E5%A4%B1%E6%95%97%E7%9A%84%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88/</span>
+            </p>
+            
+             
+            <p class="copyright-item lincese">
+                本文采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可
+            </p>
+            
+    </div>
+
+  
+    <div class="post-tags">
+        
+            <section>
+            <i class="iconfont icon-tag"></i>Tag(s): 
+            
+            <span class="tag"><a href="https://gokwok.github.io/tags/bug/">
+                    #bug</a></span>
+            
+            </section>
+        
+        <section>
+                <a href="javascript:window.history.back();">back</a></span> · 
+                <span><a href="https://gokwok.github.io/">home</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav">
+        
+        <a href="https://gokwok.github.io/2018/numpy%E5%88%9D%E6%AD%A5%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97_ver2/" class="prev" rel="prev" title="numpy初步使用指南"><i class="iconfont icon-left"></i>&nbsp;numpy初步使用指南</a>
+         
+        
+        <a href="https://gokwok.github.io/2019/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%A4%A9%E6%B1%A0%E5%A4%A7%E6%95%B8%E6%93%9A%E7%AB%B6%E8%B3%BD%E8%A8%98%E9%8C%84/" class="next" rel="next" title="記第一次天池大數據競賽">記第一次天池大數據競賽&nbsp;<i class="iconfont icon-right"></i></a>
+        
+    </div>
+
+    <div class="post-comment">
+          
+                <script src="https://utteranc.es/client.js"
+                            repo= "gokwok/commentRepo"
+                            issue-term="pathname"
+                            theme="github-light"
+                            crossorigin="anonymous"
+                            async>
+                </script>
+          
+    </div>
+</article>
+          </div>
+		   </main>
+      <footer class="footer">
+    <div class="copyright">
+        &copy;
+        
+        <span itemprop="copyrightYear">2017 - 2019</span>
+        
+        <span class="with-love">
+    	 <i class="iconfont icon-love"></i> 
+         </span>
+         
+            <span class="author" itemprop="copyrightHolder"><a href="https://gokwok.github.io/">gokwok</a> | </span> 
+         
+
+         
+		  <span>Powered by <a href="https://gohugo.io/" target="_blank" rel="external nofollow">Hugo</a> & <a href="https://github.com/liuzc/leaveit" target="_blank" rel="external nofollow">LeaveIt</a></span> 
+    </div>
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    <script src="/js/vendor_no_gallery.min.js" async=""></script>
+    
+  
+
+
+
+     </div>
+  </body>
+</html>
